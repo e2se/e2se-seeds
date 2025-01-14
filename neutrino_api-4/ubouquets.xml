@@ -183,8 +183,8 @@
 		<S i="4243" n="EQUtv" t="3db8" on="13e" s="130" frq="11662" l="0"/>
 		<S i="1364" n="Canale Italia" t="33f4" on="13e" s="130" frq="11178" l="0"/>
 		<S i="2336" n="GO-TV CHANNEL" t="2328" on="13e" s="130" frq="12520" l="0"/>
-		<S i="6b" n="Padel TV" t="c8" on="13e" s="130" frq="11240" l="0"/>
-		<S i="64" n="GINX" t="c8" on="13e" s="130" frq="11240" l="0"/>
+		<S i="6b" n="Padel TV" t="c8" on="13e" s="0" frq="0" l="0"/>
+		<S i="64" n="GINX" t="c8" on="13e" s="0" frq="0" l="0"/>
 		<S i="539" n="WeDo TV" t="3d54" on="13e" s="130" frq="11642" l="0"/>
 		<S i="c80" n="Test HEVC Main10" t="3a2" on="110" s="0" frq="610000" l="0"/>
 		<S i="2529" n="AL Arabia HD" t="13ef" on="13e" s="130" frq="11747" l="0"/>
@@ -431,15 +431,15 @@
 		<S i="1ca6" n="Trójka - PR" t="1ce8" on="71" s="130" frq="12188" l="0"/>
 		<S i="1ca8" n="RMF MAXXX" t="1ce8" on="71" s="130" frq="12188" l="0"/>
 		<S i="1caa" n="Zlote Przeboje" t="1ce8" on="71" s="130" frq="12188" l="0"/>
-		<S i="68" n="VOA 1" t="1db0" on="13e" s="130" frq="12226" l="0"/>
-		<S i="c9" n="Radio Svoboda" t="1db0" on="13e" s="130" frq="12226" l="0"/>
-		<S i="cb" n="Radio Ozodi" t="1db0" on="13e" s="130" frq="12226" l="0"/>
-		<S i="cf" n="Azatutyun" t="1db0" on="13e" s="130" frq="12226" l="0"/>
-		<S i="d3" n="Azattyk Unalgysy" t="1db0" on="13e" s="130" frq="12226" l="0"/>
-		<S i="d4" n="Ozodlik Radiosi" t="1db0" on="13e" s="130" frq="12226" l="0"/>
-		<S i="d9" n="Azatlyk Radiosy" t="1db0" on="13e" s="130" frq="12226" l="0"/>
-		<S i="de" n="RSE Balkans" t="1db0" on="13e" s="130" frq="12226" l="0"/>
-		<S i="e3" n="Evropa e Lire" t="1db0" on="13e" s="130" frq="12226" l="0"/>
+		<S i="68" n="VOA 1" t="1db0" on="13e" s="0" frq="0" l="0"/>
+		<S i="c9" n="Radio Svoboda" t="1db0" on="13e" s="0" frq="0" l="0"/>
+		<S i="cb" n="Radio Ozodi" t="1db0" on="13e" s="0" frq="0" l="0"/>
+		<S i="cf" n="Azatutyun" t="1db0" on="13e" s="0" frq="0" l="0"/>
+		<S i="d3" n="Azattyk Unalgysy" t="1db0" on="13e" s="0" frq="0" l="0"/>
+		<S i="d4" n="Ozodlik Radiosi" t="1db0" on="13e" s="0" frq="0" l="0"/>
+		<S i="d9" n="Azatlyk Radiosy" t="1db0" on="13e" s="0" frq="0" l="0"/>
+		<S i="de" n="RSE Balkans" t="1db0" on="13e" s="0" frq="0" l="0"/>
+		<S i="e3" n="Evropa e Lire" t="1db0" on="13e" s="0" frq="0" l="0"/>
 		<S i="653" n="Radio Mariam Armenia" t="2454" on="13e" s="130" frq="12576" l="0"/>
 		<S i="153" n="CH339" t="157c" on="13e" s="130" frq="11823" l="0"/>
 		<S i="154" n="CH340" t="157c" on="13e" s="130" frq="11823" l="0"/>

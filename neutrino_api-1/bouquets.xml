@@ -183,8 +183,8 @@
 		<channel serviceID="4243" name="EQUtv" tsid="3db8" onid="013e" sat_position="130"/>
 		<channel serviceID="1364" name="Canale Italia" tsid="33f4" onid="013e" sat_position="130"/>
 		<channel serviceID="2336" name="GO-TV CHANNEL" tsid="2328" onid="013e" sat_position="130"/>
-		<channel serviceID="006b" name="Padel TV" tsid="00c8" onid="013e" sat_position="130"/>
-		<channel serviceID="0064" name="GINX" tsid="00c8" onid="013e" sat_position="130"/>
+		<channel serviceID="006b" name="Padel TV" tsid="00c8" onid="013e" sat_position="0"/>
+		<channel serviceID="0064" name="GINX" tsid="00c8" onid="013e" sat_position="0"/>
 		<channel serviceID="0539" name="WeDo TV" tsid="3d54" onid="013e" sat_position="130"/>
 		<channel serviceID="0c80" name="Test HEVC Main10" tsid="03a2" onid="0110" sat_position="0"/>
 		<channel serviceID="2529" name="AL Arabia HD" tsid="13ef" onid="013e" sat_position="130"/>
@@ -431,15 +431,15 @@
 		<channel serviceID="1ca6" name="Trójka - PR" tsid="1ce8" onid="0071" sat_position="130"/>
 		<channel serviceID="1ca8" name="RMF MAXXX" tsid="1ce8" onid="0071" sat_position="130"/>
 		<channel serviceID="1caa" name="Zlote Przeboje" tsid="1ce8" onid="0071" sat_position="130"/>
-		<channel serviceID="0068" name="VOA 1" tsid="1db0" onid="013e" sat_position="130"/>
-		<channel serviceID="00c9" name="Radio Svoboda" tsid="1db0" onid="013e" sat_position="130"/>
-		<channel serviceID="00cb" name="Radio Ozodi" tsid="1db0" onid="013e" sat_position="130"/>
-		<channel serviceID="00cf" name="Azatutyun" tsid="1db0" onid="013e" sat_position="130"/>
-		<channel serviceID="00d3" name="Azattyk Unalgysy" tsid="1db0" onid="013e" sat_position="130"/>
-		<channel serviceID="00d4" name="Ozodlik Radiosi" tsid="1db0" onid="013e" sat_position="130"/>
-		<channel serviceID="00d9" name="Azatlyk Radiosy" tsid="1db0" onid="013e" sat_position="130"/>
-		<channel serviceID="00de" name="RSE Balkans" tsid="1db0" onid="013e" sat_position="130"/>
-		<channel serviceID="00e3" name="Evropa e Lire" tsid="1db0" onid="013e" sat_position="130"/>
+		<channel serviceID="0068" name="VOA 1" tsid="1db0" onid="013e" sat_position="0"/>
+		<channel serviceID="00c9" name="Radio Svoboda" tsid="1db0" onid="013e" sat_position="0"/>
+		<channel serviceID="00cb" name="Radio Ozodi" tsid="1db0" onid="013e" sat_position="0"/>
+		<channel serviceID="00cf" name="Azatutyun" tsid="1db0" onid="013e" sat_position="0"/>
+		<channel serviceID="00d3" name="Azattyk Unalgysy" tsid="1db0" onid="013e" sat_position="0"/>
+		<channel serviceID="00d4" name="Ozodlik Radiosi" tsid="1db0" onid="013e" sat_position="0"/>
+		<channel serviceID="00d9" name="Azatlyk Radiosy" tsid="1db0" onid="013e" sat_position="0"/>
+		<channel serviceID="00de" name="RSE Balkans" tsid="1db0" onid="013e" sat_position="0"/>
+		<channel serviceID="00e3" name="Evropa e Lire" tsid="1db0" onid="013e" sat_position="0"/>
 		<channel serviceID="0653" name="Radio Mariam Armenia" tsid="2454" onid="013e" sat_position="130"/>
 		<channel serviceID="0153" name="CH339" tsid="157c" onid="013e" sat_position="130"/>
 		<channel serviceID="0154" name="CH340" tsid="157c" onid="013e" sat_position="130"/>
