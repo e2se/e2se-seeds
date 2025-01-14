@@ -17,7 +17,7 @@
 		<channel serviceID="0082" name="Kabelio RTL Super CH" tsid="3264" onid="013e" sat_position="130"/>
 		<channel serviceID="0087" name="Kabelio n-tv" tsid="3264" onid="013e" sat_position="130"/>
 		<channel serviceID="006e" name="Kabelio ORF 2 Tirol" tsid="3264" onid="013e" sat_position="130"/>
-		<channel serviceID="0074" name="Kabelio ORF 3" tsid="3264" onid="013e" sat_position="130"/>
+		<channel serviceID="0074" name="Kabelio ORF III" tsid="3264" onid="013e" sat_position="130"/>
 		<channel serviceID="0076" name="Kabelio ORF Sport+" tsid="3264" onid="013e" sat_position="130"/>
 		<channel serviceID="0075" name="Kabelio ServusTV" tsid="3264" onid="013e" sat_position="130"/>
 		<channel serviceID="4336" name="SRF info HD" tsid="300c" onid="013e" sat_position="130"/>
@@ -86,9 +86,9 @@
 		<channel serviceID="0530" name="People TV" tsid="3d54" onid="013e" sat_position="130"/>
 		<channel serviceID="425c" name="TVA Vicenza" tsid="3db8" onid="013e" sat_position="130"/>
 		<channel serviceID="1382" name="Telecupole" tsid="33f4" onid="013e" sat_position="130"/>
-		<channel serviceID="0535" name="ER24" tsid="3d54" onid="013e" sat_position="130"/>
+		<channel serviceID="0534" name="GOLD TV" tsid="3d54" onid="013e" sat_position="130"/>
 		<channel serviceID="421a" name="TRM h24" tsid="3db8" onid="013e" sat_position="130"/>
-		<channel serviceID="0531" name="La C sat" tsid="3d54" onid="013e" sat_position="130"/>
+		<channel serviceID="233f" name="TELERADIOPACE TV" tsid="2328" onid="013e" sat_position="130"/>
 		<channel serviceID="1c73" name="TG NORBA 24" tsid="1c20" onid="013e" sat_position="130"/>
 		<channel serviceID="4260" name="VIDEOLINA" tsid="3db8" onid="013e" sat_position="130"/>
 		<channel serviceID="1c56" name="SMTv San Marino HD" tsid="1c20" onid="013e" sat_position="130"/>
@@ -120,7 +120,7 @@
 		<channel serviceID="3b65" name="Frisbee" tsid="012c" onid="013e" sat_position="130"/>
 		<channel serviceID="084e" name="Boing Plus" tsid="0389" onid="0110" sat_position="0"/>
 		<channel serviceID="0085" name="Cartoonito HD" tsid="04b0" onid="0110" sat_position="130"/>
-		<channel serviceID="052f" name="Super!" tsid="3d54" onid="013e" sat_position="130"/>
+		<channel serviceID="0df0" name="Super!" tsid="2008" onid="fbff" sat_position="130"/>
 		<channel serviceID="452f" name="Rai News 24 HD" tsid="30d4" onid="013e" sat_position="130"/>
 		<channel serviceID="0082" name="Mediaset Italia2 HD" tsid="04b0" onid="0110" sat_position="130"/>
 		<channel serviceID="005a" name="Sky TG24" tsid="0200" onid="001d" sat_position="0"/>
@@ -136,7 +136,7 @@
 		<channel serviceID="0051" name="SPORTITALIA HD" tsid="7918" onid="217c" sat_position="0"/>
 		<channel serviceID="422d" name="Class TV Moda" tsid="2f44" onid="013e" sat_position="130"/>
 		<channel serviceID="1381" name="Arte Investimenti" tsid="33f4" onid="013e" sat_position="130"/>
-		<channel serviceID="1006" name="BIKE" tsid="1a2c" onid="fbff" sat_position="130"/>
+		<channel serviceID="1006" name="BIKE" tsid="19c8" onid="fbff" sat_position="130"/>
 		<channel serviceID="0028" name="SUPERTENNIS" tsid="0200" onid="001d" sat_position="0"/>
 		<channel serviceID="064d" name="ACISPORT TV" tsid="2454" onid="013e" sat_position="130"/>
 		<channel serviceID="0074" name="RADIO 105" tsid="0385" onid="0110" sat_position="0"/>
@@ -151,7 +151,7 @@
 		<channel serviceID="051f" name="RADIONORBA TV" tsid="3d54" onid="013e" sat_position="130"/>
 		<channel serviceID="0529" name="RADIO ZETA HD" tsid="3d54" onid="013e" sat_position="130"/>
 		<channel serviceID="0077" name="RADIO MONTE CARLO" tsid="04b0" onid="0110" sat_position="130"/>
-		<channel serviceID="052b" name="RTL 102.5 NEWS ASPI" tsid="3d54" onid="013e" sat_position="130"/>
+		<channel serviceID="052b" name="RTL 102.5 CALIENTE" tsid="3d54" onid="013e" sat_position="130"/>
 		<channel serviceID="0076" name="VIRGIN RADIO" tsid="04b0" onid="0110" sat_position="130"/>
 		<channel serviceID="42ea" name="BBC News Europe" tsid="3138" onid="013e" sat_position="130"/>
 		<channel serviceID="0321" name="Euronews English HD" tsid="3bc4" onid="013e" sat_position="130"/>
@@ -168,12 +168,12 @@
 		<channel serviceID="0369" name="CGTN Documentary" tsid="3c28" onid="013e" sat_position="130"/>
 		<channel serviceID="3331" name="TV5MONDE EUROPE" tsid="1388" onid="013e" sat_position="130"/>
 		<channel serviceID="0215" name="NHK WORLD-JAPAN" tsid="0384" onid="013e" sat_position="130"/>
-		<channel serviceID="0bc3" name="Fashion TV HD" tsid="20d0" onid="013e" sat_position="130"/>
+		<channel serviceID="0bc2" name="FashionTV L&apos;Original" tsid="20d0" onid="013e" sat_position="130"/>
 		<channel serviceID="0133" name="Arte HD" tsid="3e1c" onid="013f" sat_position="130"/>
 		<channel serviceID="2147" name="Camera Deputati" tsid="3070" onid="013e" sat_position="130"/>
-		<channel serviceID="2148" name="Senato" tsid="3070" onid="013e" sat_position="130"/>
+		<channel serviceID="0d50" name="Senato" tsid="1450" onid="013e" sat_position="130"/>
+		<channel serviceID="214b" name="tivù la guida" tsid="3070" onid="013e" sat_position="130"/>
 		<channel serviceID="4556" name="Rai 3 TGR Furlanija Julijska Kr" tsid="30d4" onid="013e" sat_position="130"/>
-		<channel serviceID="0430" name="Rai 4K Test" tsid="0002" onid="217c" sat_position="0"/>
 		<channel serviceID="2140" name="Rai Radio 2 Visual" tsid="3070" onid="013e" sat_position="130"/>
 		<channel serviceID="0642" name="Italian Fishing TV" tsid="2454" onid="013e" sat_position="130"/>
 		<channel serviceID="4244" name="Arte Atelier" tsid="3db8" onid="013e" sat_position="130"/>
@@ -182,9 +182,9 @@
 		<channel serviceID="422e" name="Horse TV HD" tsid="2f44" onid="013e" sat_position="130"/>
 		<channel serviceID="4243" name="EQUtv" tsid="3db8" onid="013e" sat_position="130"/>
 		<channel serviceID="1364" name="Canale Italia" tsid="33f4" onid="013e" sat_position="130"/>
-		<channel serviceID="064e" name="MS CHANNEL" tsid="2454" onid="013e" sat_position="130"/>
-		<channel serviceID="0646" name="MS MOTOR TV" tsid="2454" onid="013e" sat_position="130"/>
-		<channel serviceID="0534" name="GOLD TV" tsid="3d54" onid="013e" sat_position="130"/>
+		<channel serviceID="2336" name="GO-TV CHANNEL" tsid="2328" onid="013e" sat_position="130"/>
+		<channel serviceID="006b" name="Padel TV" tsid="00c8" onid="013e" sat_position="130"/>
+		<channel serviceID="0064" name="GINX" tsid="00c8" onid="013e" sat_position="130"/>
 		<channel serviceID="0539" name="WeDo TV" tsid="3d54" onid="013e" sat_position="130"/>
 		<channel serviceID="0c80" name="Test HEVC Main10" tsid="03a2" onid="0110" sat_position="0"/>
 		<channel serviceID="2529" name="AL Arabia HD" tsid="13ef" onid="013e" sat_position="130"/>
@@ -199,8 +199,8 @@
 		<channel serviceID="4241" name="TVR International HB" tsid="3db8" onid="013e" sat_position="130"/>
 		<channel serviceID="0021" name="BNT 4" tsid="2580" onid="00d5" sat_position="130"/>
 		<channel serviceID="1c8c" name="ARMPUB TV" tsid="332c" onid="013e" sat_position="130"/>
-		<channel serviceID="3334" name="RIK SAT HD" tsid="1388" onid="013e" sat_position="130"/>
-		<channel serviceID="0161" name="ERT World Europe" tsid="1c84" onid="013e" sat_position="130"/>
+		<channel serviceID="132a" name="RIKSat" tsid="33f4" onid="013e" sat_position="130"/>
+		<channel serviceID="0139" name="ERT World Europe" tsid="157c" onid="013e" sat_position="130"/>
 		<channel serviceID="0dad" name="TVE Internacional" tsid="1f40" onid="013e" sat_position="130"/>
 		<channel serviceID="04b9" name="HotBird 4K1" tsid="23f0" onid="013e" sat_position="130"/>
 		<channel serviceID="0bc5" name="Love Nature 4K" tsid="20d0" onid="013e" sat_position="130"/>
@@ -232,10 +232,10 @@
 		<channel serviceID="4348" name="SRF Virus" tsid="300c" onid="013e" sat_position="130"/>
 		<channel serviceID="4349" name="SRF Musikwelle" tsid="300c" onid="013e" sat_position="130"/>
 		<channel serviceID="434a" name="Radio RTR" tsid="300c" onid="013e" sat_position="130"/>
-		<channel serviceID="434b" name="RTS-1ere" tsid="300c" onid="013e" sat_position="130"/>
-		<channel serviceID="434c" name="Espace 2" tsid="300c" onid="013e" sat_position="130"/>
-		<channel serviceID="434d" name="Couleur3" tsid="300c" onid="013e" sat_position="130"/>
-		<channel serviceID="434e" name="Option Musique" tsid="300c" onid="013e" sat_position="130"/>
+		<channel serviceID="434b" name="RTS Première" tsid="300c" onid="013e" sat_position="130"/>
+		<channel serviceID="434c" name="RTS Espace 2" tsid="300c" onid="013e" sat_position="130"/>
+		<channel serviceID="434d" name="RTS Couleur 3" tsid="300c" onid="013e" sat_position="130"/>
+		<channel serviceID="434e" name="RTS Option Musique" tsid="300c" onid="013e" sat_position="130"/>
 		<channel serviceID="434f" name="Rete Uno" tsid="300c" onid="013e" sat_position="130"/>
 		<channel serviceID="4350" name="Rete Due" tsid="300c" onid="013e" sat_position="130"/>
 		<channel serviceID="4351" name="Rete Tre" tsid="300c" onid="013e" sat_position="130"/>
@@ -285,7 +285,7 @@
 		<channel serviceID="006a" name="RADIO SUBASIO" tsid="1770" onid="00be" sat_position="130"/>
 		<channel serviceID="006e" name="Radiolina" tsid="1770" onid="00be" sat_position="130"/>
 		<channel serviceID="135e" name="Radio Cusano Campus" tsid="33f4" onid="013e" sat_position="130"/>
-		<channel serviceID="0d75" name="Rai GR Parlamento" tsid="1450" onid="013e" sat_position="130"/>
+		<channel serviceID="214d" name="Rai GrParlamento" tsid="3070" onid="013e" sat_position="130"/>
 		<channel serviceID="0e3c" name="Radio 24" tsid="1c20" onid="013e" sat_position="130"/>
 		<channel serviceID="02f9" name="Radio RADICALE" tsid="1b58" onid="013e" sat_position="130"/>
 		<channel serviceID="02e8" name="Radio PadrePio" tsid="1b58" onid="013e" sat_position="130"/>
@@ -294,73 +294,54 @@
 		<channel serviceID="02dc" name="Radio Maria" tsid="1b58" onid="013e" sat_position="130"/>
 		<channel serviceID="0532" name="RVS-Accendi la Speranza" tsid="3d54" onid="013e" sat_position="130"/>
 		<channel serviceID="110e" name="Radio Vaticana Europa" tsid="1a2c" onid="fbff" sat_position="130"/>
-		<channel serviceID="0d7c" name="L’Ora della Venezia Giulia" tsid="1450" onid="013e" sat_position="130"/>
-		<channel serviceID="0d7e" name="Rai Radio Slovenia" tsid="1450" onid="013e" sat_position="130"/>
-		<channel serviceID="0d79" name="Rai Radio Kids" tsid="1450" onid="013e" sat_position="130"/>
-		<channel serviceID="0d78" name="Rai Radio Live Napoli" tsid="1450" onid="013e" sat_position="130"/>
-		<channel serviceID="0d77" name="Rai Radio Techete&apos;" tsid="1450" onid="013e" sat_position="130"/>
-		<channel serviceID="0d7b" name="Rai Radio Tutta Italiana" tsid="1450" onid="013e" sat_position="130"/>
-		<channel serviceID="0d7a" name="No Name Radio" tsid="1450" onid="013e" sat_position="130"/>
-		<channel serviceID="0d74" name="Rai Radio3 Classica" tsid="1450" onid="013e" sat_position="130"/>
-		<channel serviceID="0d7d" name="Rai Radio1 Sport" tsid="1450" onid="013e" sat_position="130"/>
-		<channel serviceID="0d76" name="Rai Isoradio" tsid="1450" onid="013e" sat_position="130"/>
+		<channel serviceID="2151" name="Rai Radio Kids" tsid="3070" onid="013e" sat_position="130"/>
+		<channel serviceID="2150" name="Rai Radio Live Napoli" tsid="3070" onid="013e" sat_position="130"/>
+		<channel serviceID="214f" name="Rai Radio Techete&apos;" tsid="3070" onid="013e" sat_position="130"/>
+		<channel serviceID="2153" name="Rai Radio Tutta Italiana" tsid="3070" onid="013e" sat_position="130"/>
+		<channel serviceID="2152" name="No Name Radio" tsid="3070" onid="013e" sat_position="130"/>
+		<channel serviceID="214c" name="Rai Radio 3 Classica" tsid="3070" onid="013e" sat_position="130"/>
+		<channel serviceID="2155" name="Rai Radio 1 Sport" tsid="3070" onid="013e" sat_position="130"/>
+		<channel serviceID="2154" name="Rai Radio 1 L&apos;Ora della Venezia" tsid="3070" onid="013e" sat_position="130"/>
+		<channel serviceID="2156" name="Rai Radio Trst A" tsid="3070" onid="013e" sat_position="130"/>
+		<channel serviceID="2157" name="Rai Radio Südtirol" tsid="3070" onid="013e" sat_position="130"/>
+		<channel serviceID="214e" name="Rai Isoradio" tsid="3070" onid="013e" sat_position="130"/>
 	</Bouquet>
 	<Bouquet name="Radio 13.0E" hidden="0" locked="0">
-		<channel serviceID="1410" name="Radio ZET" tsid="05dc" onid="013e" sat_position="130"/>
-		<channel serviceID="1411" name="Meloradio" tsid="05dc" onid="013e" sat_position="130"/>
-		<channel serviceID="1412" name="Chillizet" tsid="05dc" onid="013e" sat_position="130"/>
-		<channel serviceID="1413" name="Antyradio" tsid="05dc" onid="013e" sat_position="130"/>
+		<channel serviceID="3792" name="Tipik radio" tsid="044c" onid="013e" sat_position="130"/>
+		<channel serviceID="3793" name="Classic21" tsid="044c" onid="013e" sat_position="130"/>
+		<channel serviceID="3794" name="VivaCite" tsid="044c" onid="013e" sat_position="130"/>
+		<channel serviceID="3795" name="Musiq 3" tsid="044c" onid="013e" sat_position="130"/>
+		<channel serviceID="3796" name="La Premiere" tsid="044c" onid="013e" sat_position="130"/>
+		<channel serviceID="3797" name="Mint" tsid="044c" onid="013e" sat_position="130"/>
+		<channel serviceID="3798" name="Bel RTL" tsid="044c" onid="013e" sat_position="130"/>
+		<channel serviceID="3799" name="Radio Contact" tsid="044c" onid="013e" sat_position="130"/>
+		<channel serviceID="37c8" name="CH14280" tsid="044c" onid="013e" sat_position="130"/>
 		<channel serviceID="1418" name="CANAL+ PR" tsid="05dc" onid="013e" sat_position="130"/>
-		<channel serviceID="1419" name="JASNA GORA" tsid="05dc" onid="013e" sat_position="130"/>
-		<channel serviceID="142a" name="TOK FM" tsid="05dc" onid="013e" sat_position="130"/>
+		<channel serviceID="141a" name="JASNA GORA" tsid="05dc" onid="013e" sat_position="130"/>
+		<channel serviceID="144e" name="CH5198" tsid="05dc" onid="013e" sat_position="130"/>
 		<channel serviceID="3346" name="BBC Horn of Africa" tsid="1388" onid="013e" sat_position="130"/>
 		<channel serviceID="3348" name="BBC English (Europe)" tsid="1388" onid="013e" sat_position="130"/>
 		<channel serviceID="3349" name="BBC English Mid_East" tsid="1388" onid="013e" sat_position="130"/>
-		<channel serviceID="3343" name="DW-FM01" tsid="1388" onid="013e" sat_position="130"/>
-		<channel serviceID="3344" name="DW-FM02" tsid="1388" onid="013e" sat_position="130"/>
 		<channel serviceID="3341" name="DW08" tsid="1388" onid="013e" sat_position="130"/>
 		<channel serviceID="3342" name="DW09" tsid="1388" onid="013e" sat_position="130"/>
-		<channel serviceID="06d8" name="Bahai Radio" tsid="3138" onid="013e" sat_position="130"/>
-		<channel serviceID="06d7" name="Chaine 1" tsid="3138" onid="013e" sat_position="130"/>
-		<channel serviceID="06af" name="Chaine 2" tsid="3138" onid="013e" sat_position="130"/>
-		<channel serviceID="06c3" name="Chaine 3" tsid="3138" onid="013e" sat_position="130"/>
-		<channel serviceID="0838" name="Radio 2M" tsid="22c4" onid="013e" sat_position="130"/>
+		<channel serviceID="3343" name="DW-FM01" tsid="1388" onid="013e" sat_position="130"/>
+		<channel serviceID="3344" name="DW-FM02" tsid="1388" onid="013e" sat_position="130"/>
+		<channel serviceID="3345" name="DW-FEED1" tsid="1388" onid="013e" sat_position="130"/>
 		<channel serviceID="0d71" name="Rai Radio 1" tsid="1450" onid="013e" sat_position="130"/>
 		<channel serviceID="0d72" name="Rai Radio 2" tsid="1450" onid="013e" sat_position="130"/>
 		<channel serviceID="0d73" name="Rai Radio 3" tsid="1450" onid="013e" sat_position="130"/>
-		<channel serviceID="0d74" name="Rai Radio3 Classica" tsid="1450" onid="013e" sat_position="130"/>
-		<channel serviceID="0d75" name="Rai GR Parlamento" tsid="1450" onid="013e" sat_position="130"/>
-		<channel serviceID="0d76" name="Rai Isoradio" tsid="1450" onid="013e" sat_position="130"/>
-		<channel serviceID="0d77" name="Rai Radio Techete&apos;" tsid="1450" onid="013e" sat_position="130"/>
-		<channel serviceID="0d78" name="Rai Radio Live Napoli" tsid="1450" onid="013e" sat_position="130"/>
-		<channel serviceID="0d79" name="Rai Radio Kids" tsid="1450" onid="013e" sat_position="130"/>
-		<channel serviceID="0d7b" name="Rai Radio Tutta Italiana" tsid="1450" onid="013e" sat_position="130"/>
-		<channel serviceID="0d7c" name="L’Ora della Venezia Giulia" tsid="1450" onid="013e" sat_position="130"/>
-		<channel serviceID="0d7d" name="Rai Radio1 Sport" tsid="1450" onid="013e" sat_position="130"/>
-		<channel serviceID="0d7e" name="Rai Radio Slovenia" tsid="1450" onid="013e" sat_position="130"/>
-		<channel serviceID="1c57" name="SMTv San Marino Radio" tsid="1c20" onid="013e" sat_position="130"/>
 		<channel serviceID="0065" name="Radio R101" tsid="1770" onid="00be" sat_position="130"/>
 		<channel serviceID="0066" name="Radio Monte Carlo" tsid="1770" onid="00be" sat_position="130"/>
 		<channel serviceID="0068" name="Virgin radio" tsid="1770" onid="00be" sat_position="130"/>
 		<channel serviceID="0069" name="Radio 105" tsid="1770" onid="00be" sat_position="130"/>
 		<channel serviceID="006a" name="RADIO SUBASIO" tsid="1770" onid="00be" sat_position="130"/>
 		<channel serviceID="006e" name="Radiolina" tsid="1770" onid="00be" sat_position="130"/>
-		<channel serviceID="0e35" name="Radio Sportiva" tsid="1c20" onid="013e" sat_position="130"/>
-		<channel serviceID="0e3c" name="Radio 24" tsid="1c20" onid="013e" sat_position="130"/>
-		<channel serviceID="0e3d" name="R.ONDA D&apos;URTO" tsid="1c20" onid="013e" sat_position="130"/>
-		<channel serviceID="0e44" name="CAPITAL" tsid="1c20" onid="013e" sat_position="130"/>
-		<channel serviceID="0e46" name="Radio Iglesias" tsid="1c20" onid="013e" sat_position="130"/>
-		<channel serviceID="0e48" name="popolare" tsid="1c20" onid="013e" sat_position="130"/>
-		<channel serviceID="0e30" name="RADIO ITALIA s.m.i." tsid="1c20" onid="013e" sat_position="130"/>
-		<channel serviceID="0e2e" name="RADIO FRECCIA" tsid="1c20" onid="013e" sat_position="130"/>
-		<channel serviceID="0e3a" name="RTL 102.5" tsid="1c20" onid="013e" sat_position="130"/>
-		<channel serviceID="0e3b" name="RADIO ZETA" tsid="1c20" onid="013e" sat_position="130"/>
-		<channel serviceID="0e43" name="DEEJAY" tsid="1c20" onid="013e" sat_position="130"/>
-		<channel serviceID="0e45" name="M DUE O" tsid="1c20" onid="013e" sat_position="130"/>
-		<channel serviceID="135a" name="Radio Supersound" tsid="33f4" onid="013e" sat_position="130"/>
-		<channel serviceID="135b" name="Radio Gamma Stereo" tsid="33f4" onid="013e" sat_position="130"/>
-		<channel serviceID="135d" name="Radio Margherita" tsid="33f4" onid="013e" sat_position="130"/>
-		<channel serviceID="135e" name="Radio Cusano Campus" tsid="33f4" onid="013e" sat_position="130"/>
+		<channel serviceID="110e" name="Radio Vaticana Europa" tsid="1a2c" onid="fbff" sat_position="130"/>
+		<channel serviceID="2b7b" name="InBlu" tsid="1a2c" onid="fbff" sat_position="130"/>
+		<channel serviceID="2ba6" name="INBLU2000" tsid="1a2c" onid="fbff" sat_position="130"/>
+		<channel serviceID="02ca" name="RDP Int" tsid="1b58" onid="013e" sat_position="130"/>
+		<channel serviceID="02cb" name="Antena1" tsid="1b58" onid="013e" sat_position="130"/>
+		<channel serviceID="02dc" name="Radio Maria" tsid="1b58" onid="013e" sat_position="130"/>
 		<channel serviceID="02e0" name="RDS" tsid="1b58" onid="013e" sat_position="130"/>
 		<channel serviceID="02e1" name="DimSuono Roma" tsid="1b58" onid="013e" sat_position="130"/>
 		<channel serviceID="02e2" name="ANNI 60" tsid="1b58" onid="013e" sat_position="130"/>
@@ -371,31 +352,65 @@
 		<channel serviceID="02fe" name="DimSuono Soft  MI" tsid="1b58" onid="013e" sat_position="130"/>
 		<channel serviceID="02ff" name="DimSuono Soft RM" tsid="1b58" onid="013e" sat_position="130"/>
 		<channel serviceID="0300" name="Discoradio" tsid="1b58" onid="013e" sat_position="130"/>
-		<channel serviceID="4255" name="Radio Number One" tsid="3db8" onid="013e" sat_position="130"/>
-		<channel serviceID="2b7b" name="InBlu" tsid="1a2c" onid="fbff" sat_position="130"/>
-		<channel serviceID="2ba6" name="INBLU2000" tsid="1a2c" onid="fbff" sat_position="130"/>
-		<channel serviceID="110e" name="Radio Vaticana Europa" tsid="1a2c" onid="fbff" sat_position="130"/>
-		<channel serviceID="0532" name="RVS-Accendi la Speranza" tsid="3d54" onid="013e" sat_position="130"/>
-		<channel serviceID="1c72" name="R.BuonConsiglio" tsid="1c20" onid="013e" sat_position="130"/>
-		<channel serviceID="1c70" name="RADIO MATER" tsid="1c20" onid="013e" sat_position="130"/>
-		<channel serviceID="02dc" name="Radio Maria" tsid="1b58" onid="013e" sat_position="130"/>
-		<channel serviceID="02ca" name="RDP Int" tsid="1b58" onid="013e" sat_position="130"/>
-		<channel serviceID="02cb" name="Antena1" tsid="1b58" onid="013e" sat_position="130"/>
-		<channel serviceID="0136" name="Εκκλησία της Ελλ" tsid="157c" onid="013e" sat_position="130"/>
-		<channel serviceID="016d" name="VOICE OF GREECE" tsid="1c84" onid="013e" sat_position="130"/>
+		<channel serviceID="0e2e" name="RADIO FRECCIA" tsid="1c20" onid="013e" sat_position="130"/>
+		<channel serviceID="0e30" name="RADIO ITALIA s.m.i." tsid="1c20" onid="013e" sat_position="130"/>
+		<channel serviceID="0e31" name="Giornale Radio" tsid="1c20" onid="013e" sat_position="130"/>
+		<channel serviceID="0e35" name="Radio Sportiva" tsid="1c20" onid="013e" sat_position="130"/>
+		<channel serviceID="0e3a" name="RTL 102.5" tsid="1c20" onid="013e" sat_position="130"/>
+		<channel serviceID="0e3b" name="RADIO ZETA" tsid="1c20" onid="013e" sat_position="130"/>
+		<channel serviceID="0e3c" name="Radio 24" tsid="1c20" onid="013e" sat_position="130"/>
+		<channel serviceID="0e3d" name="R.ONDA D&apos;URTO" tsid="1c20" onid="013e" sat_position="130"/>
+		<channel serviceID="0e43" name="DEEJAY" tsid="1c20" onid="013e" sat_position="130"/>
+		<channel serviceID="0e44" name="CAPITAL" tsid="1c20" onid="013e" sat_position="130"/>
+		<channel serviceID="0e45" name="M DUE O" tsid="1c20" onid="013e" sat_position="130"/>
+		<channel serviceID="0e46" name="Radio Iglesias" tsid="1c20" onid="013e" sat_position="130"/>
+		<channel serviceID="0e48" name="popolare" tsid="1c20" onid="013e" sat_position="130"/>
 		<channel serviceID="1c52" name="R Tunisie Nationale" tsid="1c20" onid="013e" sat_position="130"/>
 		<channel serviceID="1c53" name="R Tunisie Internatio" tsid="1c20" onid="013e" sat_position="130"/>
-		<channel serviceID="434a" name="Radio RTR" tsid="300c" onid="013e" sat_position="130"/>
-		<channel serviceID="1caa" name="Zlote Przeboje" tsid="1ce8" onid="0071" sat_position="130"/>
-		<channel serviceID="1ca0" name="Zlote Przeboje" tsid="1ce8" onid="0071" sat_position="130"/>
-		<channel serviceID="1c9a" name="RMF Classic" tsid="1ce8" onid="0071" sat_position="130"/>
-		<channel serviceID="1c9e" name="RMF MAXXX" tsid="1ce8" onid="0071" sat_position="130"/>
+		<channel serviceID="1c57" name="SMTv San Marino Radio" tsid="1c20" onid="013e" sat_position="130"/>
+		<channel serviceID="1c70" name="RADIO MATER" tsid="1c20" onid="013e" sat_position="130"/>
+		<channel serviceID="1c72" name="R.BuonConsiglio" tsid="1c20" onid="013e" sat_position="130"/>
+		<channel serviceID="214c" name="Rai Radio 3 Classica" tsid="3070" onid="013e" sat_position="130"/>
+		<channel serviceID="214d" name="Rai GrParlamento" tsid="3070" onid="013e" sat_position="130"/>
+		<channel serviceID="214e" name="Rai Isoradio" tsid="3070" onid="013e" sat_position="130"/>
+		<channel serviceID="214f" name="Rai Radio Techete&apos;" tsid="3070" onid="013e" sat_position="130"/>
+		<channel serviceID="2150" name="Rai Radio Live Napoli" tsid="3070" onid="013e" sat_position="130"/>
+		<channel serviceID="2151" name="Rai Radio Kids" tsid="3070" onid="013e" sat_position="130"/>
+		<channel serviceID="2152" name="No Name Radio" tsid="3070" onid="013e" sat_position="130"/>
+		<channel serviceID="2153" name="Rai Radio Tutta Italiana" tsid="3070" onid="013e" sat_position="130"/>
+		<channel serviceID="2154" name="Rai Radio 1 L&apos;Ora della Venezia" tsid="3070" onid="013e" sat_position="130"/>
+		<channel serviceID="2155" name="Rai Radio 1 Sport" tsid="3070" onid="013e" sat_position="130"/>
+		<channel serviceID="2156" name="Rai Radio Trst A" tsid="3070" onid="013e" sat_position="130"/>
+		<channel serviceID="2157" name="Rai Radio Südtirol" tsid="3070" onid="013e" sat_position="130"/>
+		<channel serviceID="135a" name="Radio Supersound" tsid="33f4" onid="013e" sat_position="130"/>
+		<channel serviceID="135b" name="Radio Gamma Stereo" tsid="33f4" onid="013e" sat_position="130"/>
+		<channel serviceID="135c" name="RIK 3" tsid="33f4" onid="013e" sat_position="130"/>
+		<channel serviceID="135d" name="Radio Margherita" tsid="33f4" onid="013e" sat_position="130"/>
+		<channel serviceID="135e" name="Radio Cusano Campus" tsid="33f4" onid="013e" sat_position="130"/>
+		<channel serviceID="0532" name="RVS-Accendi la Speranza" tsid="3d54" onid="013e" sat_position="130"/>
+		<channel serviceID="4255" name="Radio Number One" tsid="3db8" onid="013e" sat_position="130"/>
+		<channel serviceID="4256" name="Canzoni Napoletane" tsid="3db8" onid="013e" sat_position="130"/>
+		<channel serviceID="4259" name="Cusano Palermo" tsid="3db8" onid="013e" sat_position="130"/>
+		<channel serviceID="425a" name="Cusano Napoli" tsid="3db8" onid="013e" sat_position="130"/>
+		<channel serviceID="425b" name="Cusano Salerno" tsid="3db8" onid="013e" sat_position="130"/>
 		<channel serviceID="4345" name="SRF 1" tsid="300c" onid="013e" sat_position="130"/>
 		<channel serviceID="4346" name="SRF 2 Kultur" tsid="300c" onid="013e" sat_position="130"/>
 		<channel serviceID="4347" name="SRF 3" tsid="300c" onid="013e" sat_position="130"/>
 		<channel serviceID="4348" name="SRF Virus" tsid="300c" onid="013e" sat_position="130"/>
 		<channel serviceID="4349" name="SRF Musikwelle" tsid="300c" onid="013e" sat_position="130"/>
+		<channel serviceID="434a" name="Radio RTR" tsid="300c" onid="013e" sat_position="130"/>
+		<channel serviceID="434b" name="RTS Première" tsid="300c" onid="013e" sat_position="130"/>
+		<channel serviceID="434c" name="RTS Espace 2" tsid="300c" onid="013e" sat_position="130"/>
+		<channel serviceID="434d" name="RTS Couleur 3" tsid="300c" onid="013e" sat_position="130"/>
+		<channel serviceID="434e" name="RTS Option Musique" tsid="300c" onid="013e" sat_position="130"/>
+		<channel serviceID="434f" name="Rete Uno" tsid="300c" onid="013e" sat_position="130"/>
+		<channel serviceID="4350" name="Rete Due" tsid="300c" onid="013e" sat_position="130"/>
+		<channel serviceID="4351" name="Rete Tre" tsid="300c" onid="013e" sat_position="130"/>
+		<channel serviceID="4352" name="Swiss Classic" tsid="300c" onid="013e" sat_position="130"/>
+		<channel serviceID="4353" name="Swiss Pop" tsid="300c" onid="013e" sat_position="130"/>
+		<channel serviceID="4354" name="Swiss Jazz" tsid="300c" onid="013e" sat_position="130"/>
 		<channel serviceID="4355" name="SRF 4 News" tsid="300c" onid="013e" sat_position="130"/>
+		<channel serviceID="4357" name="Swiss Classique" tsid="300c" onid="013e" sat_position="130"/>
 		<channel serviceID="4358" name="SRF 1 AG SO" tsid="300c" onid="013e" sat_position="130"/>
 		<channel serviceID="4359" name="SRF 1 BS" tsid="300c" onid="013e" sat_position="130"/>
 		<channel serviceID="435a" name="SRF 1 BE FR VS" tsid="300c" onid="013e" sat_position="130"/>
@@ -403,23 +418,49 @@
 		<channel serviceID="435c" name="SRF 1 SG" tsid="300c" onid="013e" sat_position="130"/>
 		<channel serviceID="435d" name="SRF 1 ZH SH" tsid="300c" onid="013e" sat_position="130"/>
 		<channel serviceID="435e" name="SRF 1 GR" tsid="300c" onid="013e" sat_position="130"/>
-		<channel serviceID="4352" name="Swiss Classic" tsid="300c" onid="013e" sat_position="130"/>
-		<channel serviceID="4353" name="Swiss Pop" tsid="300c" onid="013e" sat_position="130"/>
-		<channel serviceID="4354" name="Swiss Jazz" tsid="300c" onid="013e" sat_position="130"/>
-		<channel serviceID="4357" name="Swiss Classique" tsid="300c" onid="013e" sat_position="130"/>
 		<channel serviceID="435f" name="Swiss Classica" tsid="300c" onid="013e" sat_position="130"/>
-		<channel serviceID="434b" name="RTS-1ere" tsid="300c" onid="013e" sat_position="130"/>
-		<channel serviceID="434c" name="Espace 2" tsid="300c" onid="013e" sat_position="130"/>
-		<channel serviceID="434d" name="Couleur3" tsid="300c" onid="013e" sat_position="130"/>
-		<channel serviceID="434e" name="Option Musique" tsid="300c" onid="013e" sat_position="130"/>
-		<channel serviceID="434f" name="Rete Uno" tsid="300c" onid="013e" sat_position="130"/>
-		<channel serviceID="4350" name="Rete Due" tsid="300c" onid="013e" sat_position="130"/>
-		<channel serviceID="4351" name="Rete Tre" tsid="300c" onid="013e" sat_position="130"/>
+		<channel serviceID="1c98" name="RMF FM" tsid="1ce8" onid="0071" sat_position="130"/>
+		<channel serviceID="1c9a" name="RMF Classic" tsid="1ce8" onid="0071" sat_position="130"/>
+		<channel serviceID="1c9b" name="Jedynka - PR" tsid="1ce8" onid="0071" sat_position="130"/>
+		<channel serviceID="1c9c" name="Trójka - PR" tsid="1ce8" onid="0071" sat_position="130"/>
+		<channel serviceID="1c9e" name="RMF MAXXX" tsid="1ce8" onid="0071" sat_position="130"/>
+		<channel serviceID="1ca0" name="Zlote Przeboje" tsid="1ce8" onid="0071" sat_position="130"/>
+		<channel serviceID="1ca2" name="RMF FM" tsid="1ce8" onid="0071" sat_position="130"/>
+		<channel serviceID="1ca4" name="RMF Classic" tsid="1ce8" onid="0071" sat_position="130"/>
+		<channel serviceID="1ca5" name="Jedynka - PR" tsid="1ce8" onid="0071" sat_position="130"/>
+		<channel serviceID="1ca6" name="Trójka - PR" tsid="1ce8" onid="0071" sat_position="130"/>
+		<channel serviceID="1ca8" name="RMF MAXXX" tsid="1ce8" onid="0071" sat_position="130"/>
+		<channel serviceID="1caa" name="Zlote Przeboje" tsid="1ce8" onid="0071" sat_position="130"/>
+		<channel serviceID="0068" name="VOA 1" tsid="1db0" onid="013e" sat_position="130"/>
+		<channel serviceID="00c9" name="Radio Svoboda" tsid="1db0" onid="013e" sat_position="130"/>
+		<channel serviceID="00cb" name="Radio Ozodi" tsid="1db0" onid="013e" sat_position="130"/>
+		<channel serviceID="00cf" name="Azatutyun" tsid="1db0" onid="013e" sat_position="130"/>
+		<channel serviceID="00d3" name="Azattyk Unalgysy" tsid="1db0" onid="013e" sat_position="130"/>
+		<channel serviceID="00d4" name="Ozodlik Radiosi" tsid="1db0" onid="013e" sat_position="130"/>
+		<channel serviceID="00d9" name="Azatlyk Radiosy" tsid="1db0" onid="013e" sat_position="130"/>
+		<channel serviceID="00de" name="RSE Balkans" tsid="1db0" onid="013e" sat_position="130"/>
+		<channel serviceID="00e3" name="Evropa e Lire" tsid="1db0" onid="013e" sat_position="130"/>
+		<channel serviceID="0653" name="Radio Mariam Armenia" tsid="2454" onid="013e" sat_position="130"/>
+		<channel serviceID="0153" name="CH339" tsid="157c" onid="013e" sat_position="130"/>
+		<channel serviceID="0154" name="CH340" tsid="157c" onid="013e" sat_position="130"/>
+		<channel serviceID="0155" name="CH341" tsid="157c" onid="013e" sat_position="130"/>
+		<channel serviceID="0156" name="CH342" tsid="157c" onid="013e" sat_position="130"/>
+		<channel serviceID="0157" name="CH343" tsid="157c" onid="013e" sat_position="130"/>
+		<channel serviceID="3dae" name="CH15790" tsid="2c88" onid="013e" sat_position="130"/>
+		<channel serviceID="0135" name="Love Radio" tsid="157c" onid="013e" sat_position="130"/>
+		<channel serviceID="0136" name="Εκκλησία της Ελλ" tsid="157c" onid="013e" sat_position="130"/>
+		<channel serviceID="0137" name="Skai Radio" tsid="157c" onid="013e" sat_position="130"/>
+		<channel serviceID="0138" name="Melodi Radio" tsid="157c" onid="013e" sat_position="130"/>
+		<channel serviceID="013c" name="VOICE OF GREECE" tsid="157c" onid="013e" sat_position="130"/>
 		<channel serviceID="0604" name="R Radio" tsid="01f4" onid="00fc" sat_position="130"/>
 		<channel serviceID="060e" name="Yemen Radio" tsid="01f4" onid="00fc" sat_position="130"/>
 		<channel serviceID="08b2" name="New Life Radio" tsid="01f4" onid="00fc" sat_position="130"/>
 		<channel serviceID="08b3" name="WELAT" tsid="01f4" onid="00fc" sat_position="130"/>
 		<channel serviceID="08b4" name="Radio2000" tsid="01f4" onid="00fc" sat_position="130"/>
+		<channel serviceID="000b" name="Radio Nationale" tsid="2e18" onid="00b0" sat_position="130"/>
+		<channel serviceID="000c" name="Radio Sud" tsid="2e18" onid="00b0" sat_position="130"/>
+		<channel serviceID="000e" name="Radio Inter" tsid="2e18" onid="00b0" sat_position="130"/>
+		<channel serviceID="000f" name="Radio Amazigh" tsid="2e18" onid="00b0" sat_position="130"/>
 		<channel serviceID="0010" name="Radio Med VI" tsid="2e18" onid="00b0" sat_position="130"/>
 		<channel serviceID="0032" name="Agadir" tsid="2e18" onid="00b0" sat_position="130"/>
 		<channel serviceID="0035" name="Oujda" tsid="2e18" onid="00b0" sat_position="130"/>
@@ -429,21 +470,31 @@
 		<channel serviceID="0050" name="Meknes" tsid="2e18" onid="00b0" sat_position="130"/>
 		<channel serviceID="005a" name="Laayoune" tsid="2e18" onid="00b0" sat_position="130"/>
 		<channel serviceID="005b" name="Dakhla" tsid="2e18" onid="00b0" sat_position="130"/>
-		<channel serviceID="000b" name="Radio Nationale" tsid="2e18" onid="00b0" sat_position="130"/>
 		<channel serviceID="00b1" name="Tanger" tsid="2e18" onid="00b0" sat_position="130"/>
 		<channel serviceID="00b2" name="Fes" tsid="2e18" onid="00b0" sat_position="130"/>
 		<channel serviceID="00b3" name="Marrakech" tsid="2e18" onid="00b0" sat_position="130"/>
+		<channel serviceID="000b" name="Radio Nationale" tsid="2e18" onid="00b0" sat_position="130"/>
 		<channel serviceID="000c" name="Radio Sud" tsid="2e18" onid="00b0" sat_position="130"/>
 		<channel serviceID="000e" name="Radio Inter" tsid="2e18" onid="00b0" sat_position="130"/>
 		<channel serviceID="000f" name="Radio Amazigh" tsid="2e18" onid="00b0" sat_position="130"/>
-		<channel serviceID="2360" name="Radio Hargeisa" tsid="2328" onid="013e" sat_position="130"/>
-		<channel serviceID="2361" name="Radio Quraan" tsid="2328" onid="013e" sat_position="130"/>
+		<channel serviceID="0010" name="Radio Med VI" tsid="2e18" onid="00b0" sat_position="130"/>
+		<channel serviceID="0032" name="Agadir" tsid="2e18" onid="00b0" sat_position="130"/>
+		<channel serviceID="0035" name="Oujda" tsid="2e18" onid="00b0" sat_position="130"/>
+		<channel serviceID="0036" name="Casablanca" tsid="2e18" onid="00b0" sat_position="130"/>
+		<channel serviceID="003c" name="Houceima" tsid="2e18" onid="00b0" sat_position="130"/>
+		<channel serviceID="0046" name="Tetouan" tsid="2e18" onid="00b0" sat_position="130"/>
+		<channel serviceID="0050" name="Meknes" tsid="2e18" onid="00b0" sat_position="130"/>
+		<channel serviceID="005a" name="Laayoune" tsid="2e18" onid="00b0" sat_position="130"/>
+		<channel serviceID="005b" name="Dakhla" tsid="2e18" onid="00b0" sat_position="130"/>
+		<channel serviceID="00b1" name="Tanger" tsid="2e18" onid="00b0" sat_position="130"/>
+		<channel serviceID="00b2" name="Fes" tsid="2e18" onid="00b0" sat_position="130"/>
+		<channel serviceID="00b3" name="Marrakech" tsid="2e18" onid="00b0" sat_position="130"/>
 		<channel serviceID="0dfd" name="Radio 1" tsid="1f40" onid="013e" sat_position="130"/>
 		<channel serviceID="0dfe" name="Radio Clasica" tsid="1f40" onid="013e" sat_position="130"/>
 		<channel serviceID="0dff" name="Radio 3" tsid="1f40" onid="013e" sat_position="130"/>
-		<channel serviceID="0e02" name="Radio 4" tsid="1f40" onid="013e" sat_position="130"/>
 		<channel serviceID="0e00" name="Radio 5" tsid="1f40" onid="013e" sat_position="130"/>
 		<channel serviceID="0e01" name="Radio Exterior" tsid="1f40" onid="013e" sat_position="130"/>
+		<channel serviceID="0e02" name="Radio 4" tsid="1f40" onid="013e" sat_position="130"/>
 		<channel serviceID="0388" name="Noor Dubai Radio" tsid="2134" onid="013e" sat_position="130"/>
 		<channel serviceID="038f" name="ESC R1" tsid="2134" onid="013e" sat_position="130"/>
 		<channel serviceID="0390" name="ESC R2" tsid="2134" onid="013e" sat_position="130"/>
@@ -456,6 +507,16 @@
 		<channel serviceID="039b" name="Oman Shabab Radio R3" tsid="2134" onid="013e" sat_position="130"/>
 		<channel serviceID="039c" name="OMAN HOLY QURAN" tsid="2134" onid="013e" sat_position="130"/>
 		<channel serviceID="2531" name="AL SHARJAH RADIO" tsid="13ef" onid="013e" sat_position="130"/>
+		<channel serviceID="06ad" name="Service 1709" tsid="3138" onid="013e" sat_position="130"/>
+		<channel serviceID="06af" name="Chaine 2" tsid="3138" onid="013e" sat_position="130"/>
+		<channel serviceID="06c3" name="Chaine 3" tsid="3138" onid="013e" sat_position="130"/>
+		<channel serviceID="06d7" name="Chaine 1" tsid="3138" onid="013e" sat_position="130"/>
+		<channel serviceID="06d8" name="Bahai Radio" tsid="3138" onid="013e" sat_position="130"/>
+		<channel serviceID="06d9" name="WRN Russkij" tsid="3138" onid="013e" sat_position="130"/>
+		<channel serviceID="06da" name="WRN English Europe - Hotbird" tsid="3138" onid="013e" sat_position="130"/>
+		<channel serviceID="06db" name="Radio Jahani" tsid="3138" onid="013e" sat_position="130"/>
+		<channel serviceID="06dc" name="EDM Events" tsid="3138" onid="013e" sat_position="130"/>
+		<channel serviceID="06dd" name="WRN Sawt Al Alam" tsid="3138" onid="013e" sat_position="130"/>
 		<channel serviceID="334a" name="RFI Francais" tsid="1388" onid="013e" sat_position="130"/>
 		<channel serviceID="334c" name="RFI Langues Div" tsid="1388" onid="013e" sat_position="130"/>
 		<channel serviceID="334d" name="RFI Afrique" tsid="1388" onid="013e" sat_position="130"/>
@@ -470,5 +531,7 @@
 		<channel serviceID="3356" name="RFI Albania" tsid="1388" onid="013e" sat_position="130"/>
 		<channel serviceID="3357" name="RFI Liban" tsid="1388" onid="013e" sat_position="130"/>
 		<channel serviceID="3358" name="RFI Test HB" tsid="1388" onid="013e" sat_position="130"/>
+		<channel serviceID="2905" name="Radio Congo" tsid="1c20" onid="013e" sat_position="130"/>
+		<channel serviceID="0838" name="Radio 2M" tsid="22c4" onid="013e" sat_position="130"/>
 	</Bouquet>
 </zapit>
