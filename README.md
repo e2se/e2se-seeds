@@ -8,7 +8,10 @@ Neutrino XML settings file format.
 
 &nbsp;
 
-### License
+*All brands, logos, trademarks and registered trademarks are property of their copyright holders.*
+
+
+## License
 
 Source code licensed under the terms of the [MIT License](https://github.com/e2se/e2se-seeds/blob/main/LICENSE-MIT).
 
