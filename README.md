@@ -6,8 +6,6 @@ Enigma Lamedb settings file format.
 
 Neutrino XML settings file format.
 
-&nbsp;
-
 *All brands, logos, trademarks and registered trademarks are property of their copyright holders.*
 
 
