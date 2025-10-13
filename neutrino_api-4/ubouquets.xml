@@ -5,73 +5,72 @@
 		<S i="4332" n="SRF zwei HD" t="300c" on="13e" s="130" frq="10971" l="0"/>
 		<S i="64" n="Kabelio 3+" t="3264" on="13e" s="130" frq="11096" l="0"/>
 		<S i="6f" n="Kabelio RTL CH" t="3264" on="13e" s="130" frq="11096" l="0"/>
-		<S i="6d" n="Kabelio ORF 1" t="3264" on="13e" s="130" frq="11096" l="0"/>
+		<S i="6d" n="Kabelio ORF eins" t="3264" on="13e" s="130" frq="11096" l="0"/>
 		<S i="72" n="Kabelio SAT.1 CH" t="3264" on="13e" s="130" frq="11096" l="0"/>
 		<S i="73" n="Kabelio ProSieben CH" t="3264" on="13e" s="130" frq="11096" l="0"/>
 		<S i="67" n="Kabelio TV24" t="3264" on="13e" s="130" frq="11096" l="0"/>
 		<S i="84" n="Kabelio Das Erste" t="3264" on="13e" s="130" frq="11096" l="0"/>
 		<S i="85" n="Kabelio ZDF" t="3264" on="13e" s="130" frq="11096" l="0"/>
-		<S i="70" n="Kabelio RTLZWEI CH" t="3264" on="13e" s="130" frq="11096" l="0"/>
-		<S i="7f" n="Kabelio KabelEins CH" t="3264" on="13e" s="130" frq="11096" l="0"/>
+		<S i="70" n="Kabelio RTLzwei CH" t="3264" on="13e" s="130" frq="11096" l="0"/>
+		<S i="7f" n="Kabelio Kabel 1 CH" t="3264" on="13e" s="130" frq="11096" l="0"/>
 		<S i="71" n="Kabelio VOX CH" t="3264" on="13e" s="130" frq="11096" l="0"/>
-		<S i="82" n="Kabelio RTL Super CH" t="3264" on="13e" s="130" frq="11096" l="0"/>
-		<S i="87" n="Kabelio n-tv" t="3264" on="13e" s="130" frq="11096" l="0"/>
+		<S i="82" n="Kabelio SuperRTL CH" t="3264" on="13e" s="130" frq="11096" l="0"/>
+		<S i="87" n="Kabelio n-tv CH" t="3264" on="13e" s="130" frq="11096" l="0"/>
 		<S i="6e" n="Kabelio ORF 2 Tirol" t="3264" on="13e" s="130" frq="11096" l="0"/>
 		<S i="74" n="Kabelio ORF III" t="3264" on="13e" s="130" frq="11096" l="0"/>
 		<S i="76" n="Kabelio ORF Sport+" t="3264" on="13e" s="130" frq="11096" l="0"/>
 		<S i="75" n="Kabelio ServusTV" t="3264" on="13e" s="130" frq="11096" l="0"/>
 		<S i="4336" n="SRF info HD" t="300c" on="13e" s="130" frq="10971" l="0"/>
-		<S i="d3" n="Kabelio SWISS 1" t="2db4" on="13e" s="130" frq="10853" l="0"/>
-		<S i="d4" n="Kabelio Auftanken.TV" t="2db4" on="13e" s="130" frq="10853" l="0"/>
+		<S i="d3" n="Kabelio SWISS 1" t="2c24" on="13e" s="130" frq="10775" l="0"/>
+		<S i="d4" n="Kabelio Auftanken.TV" t="2c24" on="13e" s="130" frq="10775" l="0"/>
 		<S i="65" n="Kabelio 4+" t="3264" on="13e" s="130" frq="11096" l="0"/>
 		<S i="6c" n="Kabelio Puls acht" t="3264" on="13e" s="130" frq="11096" l="0"/>
-		<S i="6b" n="Kabelio TeleZueri" t="3264" on="13e" s="130" frq="11096" l="0"/>
+		<S i="6b" n="Kabelio Tele Zueri" t="3264" on="13e" s="130" frq="11096" l="0"/>
 		<S i="66" n="Kabelio 5+" t="3264" on="13e" s="130" frq="11096" l="0"/>
 		<S i="fd" n="Kabelio S1" t="2db4" on="13e" s="130" frq="10853" l="0"/>
 		<S i="69" n="Kabelio 6+" t="3264" on="13e" s="130" frq="11096" l="0"/>
 		<S i="68" n="Kabelio TV25" t="3264" on="13e" s="130" frq="11096" l="0"/>
-		<S i="d5" n="Kabelio blue Zoom" t="2db4" on="13e" s="130" frq="10853" l="0"/>
-		<S i="c9" n="Kabelio Tele Baern" t="2db4" on="13e" s="130" frq="10853" l="0"/>
-		<S i="ce" n="Kabelio Tele M1" t="2db4" on="13e" s="130" frq="10853" l="0"/>
-		<S i="ca" n="Kabelio Tele Basel" t="2db4" on="13e" s="130" frq="10853" l="0"/>
-		<S i="cb" n="Kabelio Tele 1" t="2db4" on="13e" s="130" frq="10853" l="0"/>
-		<S i="cc" n="Kabelio TVO" t="2db4" on="13e" s="130" frq="10853" l="0"/>
-		<S i="cd" n="Kabelio TV Suedost" t="2db4" on="13e" s="130" frq="10853" l="0"/>
+		<S i="d5" n="Kabelio Blue Zoom D" t="2c24" on="13e" s="130" frq="10775" l="0"/>
+		<S i="c9" n="Kabelio Tele Baern" t="2c24" on="13e" s="130" frq="10775" l="0"/>
+		<S i="ce" n="Kabelio Tele M1" t="2c24" on="13e" s="130" frq="10775" l="0"/>
+		<S i="ca" n="Kabelio Tele Basel" t="2c24" on="13e" s="130" frq="10775" l="0"/>
+		<S i="cb" n="Kabelio Tele 1" t="2c24" on="13e" s="130" frq="10775" l="0"/>
+		<S i="cc" n="Kabelio TVO" t="2c24" on="13e" s="130" frq="10775" l="0"/>
+		<S i="cd" n="Kabelio TV SuedOst" t="2c24" on="13e" s="130" frq="10775" l="0"/>
 		<S i="4333" n="RTS 1 HD" t="300c" on="13e" s="130" frq="10971" l="0"/>
 		<S i="4334" n="RTS 2 HD" t="300c" on="13e" s="130" frq="10971" l="0"/>
-		<S i="f1" n="Kabelio TF1" t="2db4" on="13e" s="130" frq="10853" l="0"/>
-		<S i="12e" n="France 2 HD" t="3e1c" on="13f" s="130" frq="11681" l="0"/>
-		<S i="12f" n="France 3" t="3e1c" on="13f" s="130" frq="11681" l="0"/>
-		<S i="13a" n="France 4" t="3e1c" on="13f" s="130" frq="11681" l="0"/>
-		<S i="131" n="France 5" t="3e1c" on="13f" s="130" frq="11681" l="0"/>
-		<S i="132" n="M6 HD" t="3e1c" on="13f" s="130" frq="11681" l="0"/>
+		<S i="f1" n="Kabelio TF1 CH" t="2c24" on="13e" s="130" frq="10775" l="0"/>
+		<S i="12e" n="FRANCE 2" t="3e1c" on="13f" s="130" frq="11681" l="0"/>
+		<S i="12f" n="FRANCE 3" t="3e1c" on="13f" s="130" frq="11681" l="0"/>
+		<S i="13a" n="FRANCE 4" t="3e1c" on="13f" s="130" frq="11681" l="0"/>
+		<S i="131" n="FRANCE 5" t="3e1c" on="13f" s="130" frq="11681" l="0"/>
+		<S i="132" n="M6" t="3e1c" on="13f" s="130" frq="11681" l="0"/>
 		<S i="135" n="W9" t="3e1c" on="13f" s="130" frq="11681" l="0"/>
 		<S i="142" n="6TER" t="3e1c" on="13f" s="130" frq="11681" l="0"/>
-		<S i="f2" n="Kabelio M6 Music" t="2db4" on="13e" s="130" frq="10853" l="0"/>
-		<S i="cf" n="Kabelio Leman Bleu" t="2db4" on="13e" s="130" frq="10853" l="0"/>
-		<S i="d0" n="Kabelio Carac 1" t="2db4" on="13e" s="130" frq="10853" l="0"/>
-		<S i="f3" n="Kabelio RTL9 CH" t="2db4" on="13e" s="130" frq="10853" l="0"/>
-		<S i="fe" n="Kabelio TMC CH" t="2db4" on="13e" s="130" frq="10853" l="0"/>
+		<S i="f2" n="Kabelio M6 Music" t="2c24" on="13e" s="130" frq="10775" l="0"/>
+		<S i="cf" n="Kabelio Leman Bleu" t="2c24" on="13e" s="130" frq="10775" l="0"/>
+		<S i="d0" n="Kabelio Carac 1" t="2c24" on="13e" s="130" frq="10775" l="0"/>
+		<S i="f3" n="Kabelio RTL9 CH" t="2c24" on="13e" s="130" frq="10775" l="0"/>
+		<S i="fe" n="Kabelio TMC CH" t="2c24" on="13e" s="130" frq="10775" l="0"/>
 		<S i="4337" n="RSI LA 1 HD" t="300c" on="13e" s="130" frq="10971" l="0"/>
 		<S i="4338" n="RSI LA 2 HD" t="300c" on="13e" s="130" frq="10971" l="0"/>
-		<S i="fb" n="Kabelio Canale 5" t="2db4" on="13e" s="130" frq="10853" l="0"/>
-		<S i="dd" n="Kabelio BBC1 London" t="2db4" on="13e" s="130" frq="10853" l="0"/>
-		<S i="de" n="Kabelio BBC2" t="2db4" on="13e" s="130" frq="10853" l="0"/>
-		<S i="df" n="Kabelio BBC3/CBBC" t="2db4" on="13e" s="130" frq="10853" l="0"/>
-		<S i="e0" n="Kabelio BBC4/CBBCs" t="2db4" on="13e" s="130" frq="10853" l="0"/>
-		<S i="e1" n="Kabelio ITV1 London" t="2db4" on="13e" s="130" frq="10853" l="0"/>
-		<S i="e2" n="Kabelio ITV2" t="2db4" on="13e" s="130" frq="10853" l="0"/>
-		<S i="e3" n="Kabelio ITV3" t="2db4" on="13e" s="130" frq="10853" l="0"/>
-		<S i="e4" n="Kabelio ITV4" t="2db4" on="13e" s="130" frq="10853" l="0"/>
-		<S i="e7" n="Kabelio Film 4" t="2db4" on="13e" s="130" frq="10853" l="0"/>
-		<S i="e5" n="Kabelio Channel 4" t="2db4" on="13e" s="130" frq="10853" l="0"/>
-		<S i="e6" n="Kabelio Channel 5" t="2db4" on="13e" s="130" frq="10853" l="0"/>
-		<S i="100" n="Kabelio Sky News" t="2db4" on="13e" s="130" frq="10853" l="0"/>
-		<S i="fc" n="Kabelio BVN" t="2db4" on="13e" s="130" frq="10853" l="0"/>
-		<S i="101" n="Kabelio TV8 Italia" t="2db4" on="13e" s="130" frq="10853" l="0"/>
-		<S i="88" n="Kabelio Info" t="3264" on="13e" s="130" frq="11096" l="0"/>
-		<S i="8b" n="Kabelio Spare" t="3264" on="13e" s="130" frq="11096" l="0"/>
-		<S i="a01" n="VirtualChannelTest" t="2db4" on="13e" s="130" frq="10853" l="0"/>
+		<S i="fb" n="Kabelio Canale 5" t="2c24" on="13e" s="130" frq="10775" l="0"/>
+		<S i="dd" n="Kabelio BBC One Lon" t="2c24" on="13e" s="130" frq="10775" l="0"/>
+		<S i="de" n="Kabelio BBC Two" t="2c24" on="13e" s="130" frq="10775" l="0"/>
+		<S i="df" n="Kabelio BBC3/CBBC" t="2c24" on="13e" s="130" frq="10775" l="0"/>
+		<S i="e0" n="Kabelio BBC4/CBBies" t="2c24" on="13e" s="130" frq="10775" l="0"/>
+		<S i="e1" n="Kabelio ITV1 London" t="2c24" on="13e" s="130" frq="10775" l="0"/>
+		<S i="e2" n="Kabelio ITV2" t="2c24" on="13e" s="130" frq="10775" l="0"/>
+		<S i="e3" n="Kabelio ITV3" t="2c24" on="13e" s="130" frq="10775" l="0"/>
+		<S i="e4" n="Kabelio ITV4" t="2c24" on="13e" s="130" frq="10775" l="0"/>
+		<S i="e7" n="Kabelio Film 4" t="2c24" on="13e" s="130" frq="10775" l="0"/>
+		<S i="e5" n="Kabelio Channel 4" t="2c24" on="13e" s="130" frq="10775" l="0"/>
+		<S i="e6" n="Kabelio 5 UK" t="2c24" on="13e" s="130" frq="10775" l="0"/>
+		<S i="100" n="Kabelio Sky News" t="2c24" on="13e" s="130" frq="10775" l="0"/>
+		<S i="fc" n="Kabelio BVN" t="2c24" on="13e" s="130" frq="10775" l="0"/>
+		<S i="101" n="Kabelio TV8 Italia" t="2c24" on="13e" s="130" frq="10775" l="0"/>
+		<S i="8b" n="Kabelio SPARE" t="3264" on="13e" s="130" frq="11096" l="0"/>
+		<S i="88" n="Kabelio INFO" t="3264" on="13e" s="130" frq="11096" l="0"/>
 	</Bouquet>
 	<Bouquet name="Italy" hidden="0" locked="0">
 		<S i="d49" n="Rai 1 HD" t="1450" on="13e" s="130" frq="11766" l="0"/>
@@ -83,15 +82,15 @@
 		<S i="4f" n="LA7 HD" t="1770" on="be" s="130" frq="11919" l="0"/>
 		<S i="1c5c" n="TV8 HD" t="1a90" on="fbff" s="130" frq="12072" l="0"/>
 		<S i="10e3" n="Nove HD" t="3e8" on="13e" s="130" frq="11393" l="0"/>
-		<S i="530" n="People TV" t="3d54" on="13e" s="130" frq="11642" l="0"/>
+		<S i="421a" n="TRM h24" t="3db8" on="13e" s="130" frq="11662" l="0"/>
 		<S i="425c" n="TVA Vicenza" t="3db8" on="13e" s="130" frq="11662" l="0"/>
 		<S i="1382" n="Telecupole" t="33f4" on="13e" s="130" frq="11178" l="0"/>
-		<S i="534" n="GOLD TV" t="3d54" on="13e" s="130" frq="11642" l="0"/>
-		<S i="421a" n="TRM h24" t="3db8" on="13e" s="130" frq="11662" l="0"/>
-		<S i="233f" n="TELERADIOPACE TV" t="2328" on="13e" s="130" frq="12520" l="0"/>
-		<S i="1c73" n="TG NORBA 24" t="1c20" on="13e" s="130" frq="12149" l="0"/>
+		<S i="1364" n="Canale Italia" t="33f4" on="13e" s="130" frq="11178" l="0"/>
+		<S i="1c01" n="BOM CHANNEL" t="384" on="110" s="0" frq="498000" l="0"/>
+		<S i="1a" n="TELECAMPIONE" t="204" on="1d" s="0" frq="682000" l="0"/>
+		<S i="1c00" n="SICILIA 242" t="384" on="110" s="0" frq="498000" l="0"/>
 		<S i="4260" n="VIDEOLINA" t="3db8" on="13e" s="130" frq="11662" l="0"/>
-		<S i="1c56" n="SMTv San Marino HD" t="1c20" on="13e" s="130" frq="12149" l="0"/>
+		<S i="1c56" n="San Marino RTV HD" t="1c20" on="13e" s="130" frq="12149" l="0"/>
 		<S i="4536" n="UNINETTUNO UNIVERSITY TV" t="30d4" on="13e" s="130" frq="11013" l="0"/>
 		<S i="78" n="20Mediaset HD" t="4b0" on="110" s="130" frq="11432" l="0"/>
 		<S i="d4d" n="Rai 4 HD" t="1450" on="13e" s="130" frq="11766" l="0"/>
@@ -102,15 +101,15 @@
 		<S i="1018" n="cielo" t="1a90" on="fbff" s="130" frq="12072" l="0"/>
 		<S i="87" n="27Twentyseven HD" t="4b0" on="110" s="130" frq="11432" l="0"/>
 		<S i="110d" n="TV2000 HD" t="1a2c" on="fbff" s="130" frq="12054" l="0"/>
-		<S i="49" n="LA7d HD" t="1770" on="be" s="130" frq="11919" l="0"/>
+		<S i="49" n="LA7CINEMA" t="1770" on="be" s="130" frq="11919" l="0"/>
 		<S i="7f" n="La5 HD" t="4b0" on="110" s="130" frq="11432" l="0"/>
 		<S i="3b61" n="Realtime Italy HD" t="12c" on="13e" s="130" frq="11258" l="0"/>
 		<S i="4253" n="QVC HD" t="3db8" on="13e" s="130" frq="11662" l="0"/>
 		<S i="3b63" n="Food Network Italy HD" t="12c" on="13e" s="130" frq="11258" l="0"/>
 		<S i="6f" n="Cine34 HD" t="4b0" on="110" s="130" frq="11432" l="0"/>
 		<S i="86" n="Focus HD" t="4b0" on="110" s="130" frq="11432" l="0"/>
-		<S i="51b" n="RTL 102.5 HD" t="3d54" on="13e" s="130" frq="11642" l="0"/>
-		<S i="3b6c" n="Warner TV Italy HD" t="12c" on="13e" s="130" frq="11258" l="0"/>
+		<S i="202" n="RTL 102.5 HD" t="384" on="13e" s="130" frq="11373" l="0"/>
+		<S i="3b6c" n="Discovery Italy HD" t="12c" on="13e" s="130" frq="11258" l="0"/>
 		<S i="10e2" n="Giallo HD" t="3e8" on="13e" s="130" frq="11393" l="0"/>
 		<S i="84" n="TOPcrime HD" t="4b0" on="110" s="130" frq="11432" l="0"/>
 		<S i="7e" n="Boing HD" t="4b0" on="110" s="130" frq="11432" l="0"/>
@@ -133,7 +132,7 @@
 		<S i="2149" n="Rai Scuola HD" t="3070" on="13e" s="130" frq="10992" l="0"/>
 		<S i="4532" n="Rai Sport HD" t="30d4" on="13e" s="130" frq="11013" l="0"/>
 		<S i="10e1" n="MotorTrend HD" t="3e8" on="13e" s="130" frq="11393" l="0"/>
-		<S i="51" n="SPORTITALIA HD" t="7918" on="217c" s="0" frq="658000" l="0"/>
+		<S i="50" n="SPORTITALIA HD" t="7918" on="217c" s="0" frq="658000" l="0"/>
 		<S i="422d" n="Class TV Moda" t="2f44" on="13e" s="130" frq="10930" l="0"/>
 		<S i="1381" n="Arte Investimenti" t="33f4" on="13e" s="130" frq="11178" l="0"/>
 		<S i="1006" n="BIKE" t="19c8" on="fbff" s="130" frq="12034" l="0"/>
@@ -146,14 +145,14 @@
 		<S i="4242" n="Radio Italia Tv HD" t="3db8" on="13e" s="130" frq="11662" l="0"/>
 		<S i="4251" n="RDS  Social TV" t="3db8" on="13e" s="130" frq="11662" l="0"/>
 		<S i="4250" n="Radio Kiss Kiss Tv" t="3db8" on="13e" s="130" frq="11662" l="0"/>
-		<S i="51c" n="RADIOFRECCIA HD" t="3d54" on="13e" s="130" frq="11642" l="0"/>
+		<S i="203" n="RADIOFRECCIA HD" t="384" on="13e" s="130" frq="11373" l="0"/>
 		<S i="4246" n="Radio Italia Trend TV  HD" t="3db8" on="13e" s="130" frq="11662" l="0"/>
-		<S i="51f" n="RADIONORBA TV" t="3d54" on="13e" s="130" frq="11642" l="0"/>
-		<S i="529" n="RADIO ZETA HD" t="3d54" on="13e" s="130" frq="11642" l="0"/>
+		<S i="201" n="RADIONORBA TV" t="384" on="13e" s="130" frq="11373" l="0"/>
+		<S i="204" n="RADIO ZETA HD" t="384" on="13e" s="130" frq="11373" l="0"/>
 		<S i="77" n="RADIO MONTE CARLO" t="4b0" on="110" s="130" frq="11432" l="0"/>
-		<S i="52b" n="RTL 102.5 CALIENTE" t="3d54" on="13e" s="130" frq="11642" l="0"/>
+		<S i="205" n="RTL 102.5 CALIENTE" t="384" on="13e" s="130" frq="11373" l="0"/>
 		<S i="76" n="VIRGIN RADIO" t="4b0" on="110" s="130" frq="11432" l="0"/>
-		<S i="42ea" n="BBC News Europe" t="3138" on="13e" s="130" frq="11034" l="0"/>
+		<S i="3330" n="BBC News Europe" t="1388" on="13e" s="130" frq="11727" l="0"/>
 		<S i="321" n="Euronews English HD" t="3bc4" on="13e" s="130" frq="11566" l="0"/>
 		<S i="1c86" n="Bloomberg European TV" t="332c" on="13e" s="130" frq="11137" l="0"/>
 		<S i="dae" n="24H" t="1f40" on="13e" s="130" frq="12303" l="0"/>
@@ -168,25 +167,23 @@
 		<S i="369" n="CGTN Documentary" t="3c28" on="13e" s="130" frq="11585" l="0"/>
 		<S i="3331" n="TV5MONDE EUROPE" t="1388" on="13e" s="130" frq="11727" l="0"/>
 		<S i="215" n="NHK WORLD-JAPAN" t="384" on="13e" s="130" frq="11373" l="0"/>
-		<S i="bc2" n="FashionTV L&apos;Original" t="20d0" on="13e" s="130" frq="12380" l="0"/>
-		<S i="133" n="Arte HD" t="3e1c" on="13f" s="130" frq="11681" l="0"/>
+		<S i="133" n="ARTE" t="3e1c" on="13f" s="130" frq="11681" l="0"/>
 		<S i="2147" n="Camera Deputati" t="3070" on="13e" s="130" frq="10992" l="0"/>
 		<S i="d50" n="Senato" t="1450" on="13e" s="130" frq="11766" l="0"/>
 		<S i="214b" n="tivù la guida" t="3070" on="13e" s="130" frq="10992" l="0"/>
-		<S i="4556" n="Rai 3 TGR Furlanija Julijska Kr" t="30d4" on="13e" s="130" frq="11013" l="0"/>
+		<S i="d4f" n="Rai 4K" t="1450" on="13e" s="130" frq="11766" l="0"/>
 		<S i="2140" n="Rai Radio 2 Visual" t="3070" on="13e" s="130" frq="10992" l="0"/>
-		<S i="642" n="Italian Fishing TV" t="2454" on="13e" s="130" frq="12576" l="0"/>
-		<S i="4244" n="Arte Atelier" t="3db8" on="13e" s="130" frq="11662" l="0"/>
-		<S i="59a" n="VALUE 24 TV" t="19c8" on="fbff" s="130" frq="12034" l="0"/>
-		<S i="4234" n="ByoBlu" t="2f44" on="13e" s="130" frq="10930" l="0"/>
+		<S i="4556" n="Rai 3 TGR Furlanija Julijska Kr" t="30d4" on="13e" s="130" frq="11013" l="0"/>
+		<S i="104" n="wedo Movies " t="2c24" on="13e" s="130" frq="10775" l="0"/>
+		<S i="105" n="wedo Sports" t="2c24" on="13e" s="130" frq="10775" l="0"/>
+		<S i="106" n="wedo Big Stories" t="2c24" on="13e" s="130" frq="10775" l="0"/>
 		<S i="422e" n="Horse TV HD" t="2f44" on="13e" s="130" frq="10930" l="0"/>
 		<S i="4243" n="EQUtv" t="3db8" on="13e" s="130" frq="11662" l="0"/>
-		<S i="1364" n="Canale Italia" t="33f4" on="13e" s="130" frq="11178" l="0"/>
+		<S i="1c03" n="CANALE 122" t="384" on="110" s="0" frq="498000" l="0"/>
+		<S i="a0" n="IlSole24ORE TV" t="200" on="1d" s="0" frq="690000" l="0"/>
+		<S i="52" n="ALMA TV" t="7918" on="217c" s="0" frq="658000" l="0"/>
+		<S i="424b" n="MARCOPOLO" t="3db8" on="13e" s="130" frq="11662" l="0"/>
 		<S i="2336" n="GO-TV CHANNEL" t="2328" on="13e" s="130" frq="12520" l="0"/>
-		<S i="6b" n="Padel TV" t="c8" on="13e" s="0" frq="0" l="0"/>
-		<S i="64" n="GINX" t="c8" on="13e" s="0" frq="0" l="0"/>
-		<S i="539" n="WeDo TV" t="3d54" on="13e" s="130" frq="11642" l="0"/>
-		<S i="c80" n="Test HEVC Main10" t="3a2" on="110" s="0" frq="610000" l="0"/>
 		<S i="2529" n="AL Arabia HD" t="13ef" on="13e" s="130" frq="11747" l="0"/>
 		<S i="641" n="Al Jazeera HD" t="2454" on="13e" s="130" frq="12576" l="0"/>
 		<S i="19f" n="BFM TV" t="26ac" on="13f" s="130" frq="12692" l="0"/>
@@ -202,20 +199,19 @@
 		<S i="132a" n="RIKSat" t="33f4" on="13e" s="130" frq="11178" l="0"/>
 		<S i="139" n="ERT World Europe" t="157c" on="13e" s="130" frq="11823" l="0"/>
 		<S i="dad" n="TVE Internacional" t="1f40" on="13e" s="130" frq="12303" l="0"/>
+		<S i="7d4" n="Vatican Media Europa" t="22c4" on="13e" s="130" frq="12475" l="0"/>
 		<S i="4b9" n="HotBird 4K1" t="23f0" on="13e" s="130" frq="12558" l="0"/>
-		<S i="bc5" n="Love Nature 4K" t="20d0" on="13e" s="130" frq="12380" l="0"/>
+		<S i="11fb" n="TravelXP 4K" t="2b5c" on="13e" s="130" frq="10728" l="0"/>
 		<S i="11fc" n="Museum 4K" t="2b5c" on="13e" s="130" frq="10728" l="0"/>
 		<S i="11fd" n="MyZen 4K" t="2b5c" on="13e" s="130" frq="10728" l="0"/>
-		<S i="11fb" n="TravelXP 4K" t="2b5c" on="13e" s="130" frq="10728" l="0"/>
-		<S i="d4f" n="Rai 4K" t="1450" on="13e" s="130" frq="11766" l="0"/>
 	</Bouquet>
 	<Bouquet name="Tests" hidden="0" locked="0">
 		<S i="4267" n="Eutelsat Data 1" t="2f44" on="13e" s="130" frq="10930" l="0"/>
 		<S i="69a" n="Eutelsat Data 1" t="2454" on="13e" s="130" frq="12576" l="0"/>
-		<S i="338c" n="Test GC 1" t="1388" on="13e" s="130" frq="11727" l="0"/>
-		<S i="338d" n="Test GC 2" t="1388" on="13e" s="130" frq="11727" l="0"/>
-		<S i="338e" n="Test GC 3" t="1388" on="13e" s="130" frq="11727" l="0"/>
-		<S i="338f" n="Test GC 4" t="1388" on="13e" s="130" frq="11727" l="0"/>
+		<S i="338c" n="Test GC1" t="1388" on="13e" s="130" frq="11727" l="0"/>
+		<S i="338d" n="Test GC2" t="1388" on="13e" s="130" frq="11727" l="0"/>
+		<S i="338e" n="Test GC3" t="1388" on="13e" s="130" frq="11727" l="0"/>
+		<S i="338f" n="Test GC4" t="1388" on="13e" s="130" frq="11727" l="0"/>
 	</Bouquet>
 	<Bouquet name="Tests 1" hidden="0" locked="0">
 		<S i="1159" n="CH4441" t="2af8" on="13e" s="130" frq="10719" l="0"/>
@@ -281,7 +277,7 @@
 		<S i="e3d" n="R.ONDA D&apos;URTO" t="1c20" on="13e" s="130" frq="12149" l="0"/>
 		<S i="2e2" n="ANNI 60" t="1b58" on="13e" s="130" frq="12111" l="0"/>
 		<S i="2ba6" n="INBLU2000" t="1a2c" on="fbff" s="130" frq="12054" l="0"/>
-		<S i="1c57" n="SMTv San Marino Radio" t="1c20" on="13e" s="130" frq="12149" l="0"/>
+		<S i="1c57" n="Radio San Marino" t="1c20" on="13e" s="130" frq="12149" l="0"/>
 		<S i="6a" n="RADIO SUBASIO" t="1770" on="be" s="130" frq="11919" l="0"/>
 		<S i="6e" n="Radiolina" t="1770" on="be" s="130" frq="11919" l="0"/>
 		<S i="135e" n="Radio Cusano Campus" t="33f4" on="13e" s="130" frq="11178" l="0"/>
@@ -307,6 +303,9 @@
 		<S i="214e" n="Rai Isoradio" t="3070" on="13e" s="130" frq="10992" l="0"/>
 	</Bouquet>
 	<Bouquet name="Radio 13.0E" hidden="0" locked="0">
+		<S i="1418" n="CANAL+ PR" t="5dc" on="13e" s="130" frq="11488" l="0"/>
+		<S i="1419" n="JASNA GORA" t="5dc" on="13e" s="130" frq="11488" l="0"/>
+		<S i="141a" n="JASNA GORA" t="5dc" on="13e" s="130" frq="11488" l="0"/>
 		<S i="3792" n="Tipik radio" t="44c" on="13e" s="130" frq="11411" l="0"/>
 		<S i="3793" n="Classic21" t="44c" on="13e" s="130" frq="11411" l="0"/>
 		<S i="3794" n="VivaCite" t="44c" on="13e" s="130" frq="11411" l="0"/>
@@ -315,61 +314,28 @@
 		<S i="3797" n="Mint" t="44c" on="13e" s="130" frq="11411" l="0"/>
 		<S i="3798" n="Bel RTL" t="44c" on="13e" s="130" frq="11411" l="0"/>
 		<S i="3799" n="Radio Contact" t="44c" on="13e" s="130" frq="11411" l="0"/>
-		<S i="37c8" n="CH14280" t="44c" on="13e" s="130" frq="11411" l="0"/>
-		<S i="1418" n="CANAL+ PR" t="5dc" on="13e" s="130" frq="11488" l="0"/>
-		<S i="141a" n="JASNA GORA" t="5dc" on="13e" s="130" frq="11488" l="0"/>
-		<S i="144e" n="CH5198" t="5dc" on="13e" s="130" frq="11488" l="0"/>
-		<S i="3346" n="BBC Horn of Africa" t="1388" on="13e" s="130" frq="11727" l="0"/>
-		<S i="3348" n="BBC English (Europe)" t="1388" on="13e" s="130" frq="11727" l="0"/>
-		<S i="3349" n="BBC English Mid_East" t="1388" on="13e" s="130" frq="11727" l="0"/>
-		<S i="3341" n="DW08" t="1388" on="13e" s="130" frq="11727" l="0"/>
-		<S i="3342" n="DW09" t="1388" on="13e" s="130" frq="11727" l="0"/>
-		<S i="3343" n="DW-FM01" t="1388" on="13e" s="130" frq="11727" l="0"/>
-		<S i="3344" n="DW-FM02" t="1388" on="13e" s="130" frq="11727" l="0"/>
-		<S i="3345" n="DW-FEED1" t="1388" on="13e" s="130" frq="11727" l="0"/>
-		<S i="d71" n="Rai Radio 1" t="1450" on="13e" s="130" frq="11766" l="0"/>
-		<S i="d72" n="Rai Radio 2" t="1450" on="13e" s="130" frq="11766" l="0"/>
-		<S i="d73" n="Rai Radio 3" t="1450" on="13e" s="130" frq="11766" l="0"/>
-		<S i="65" n="Radio R101" t="1770" on="be" s="130" frq="11919" l="0"/>
-		<S i="66" n="Radio Monte Carlo" t="1770" on="be" s="130" frq="11919" l="0"/>
-		<S i="68" n="Virgin radio" t="1770" on="be" s="130" frq="11919" l="0"/>
-		<S i="69" n="Radio 105" t="1770" on="be" s="130" frq="11919" l="0"/>
-		<S i="6a" n="RADIO SUBASIO" t="1770" on="be" s="130" frq="11919" l="0"/>
-		<S i="6e" n="Radiolina" t="1770" on="be" s="130" frq="11919" l="0"/>
-		<S i="110e" n="Radio Vaticana Europa" t="1a2c" on="fbff" s="130" frq="12054" l="0"/>
-		<S i="2b7b" n="InBlu" t="1a2c" on="fbff" s="130" frq="12054" l="0"/>
-		<S i="2ba6" n="INBLU2000" t="1a2c" on="fbff" s="130" frq="12054" l="0"/>
-		<S i="2ca" n="RDP Int" t="1b58" on="13e" s="130" frq="12111" l="0"/>
-		<S i="2cb" n="Antena1" t="1b58" on="13e" s="130" frq="12111" l="0"/>
-		<S i="2dc" n="Radio Maria" t="1b58" on="13e" s="130" frq="12111" l="0"/>
-		<S i="2e0" n="RDS" t="1b58" on="13e" s="130" frq="12111" l="0"/>
-		<S i="2e1" n="DimSuono Roma" t="1b58" on="13e" s="130" frq="12111" l="0"/>
-		<S i="2e2" n="ANNI 60" t="1b58" on="13e" s="130" frq="12111" l="0"/>
-		<S i="2e4" n="R. Italia S.m.i." t="1b58" on="13e" s="130" frq="12111" l="0"/>
-		<S i="2e6" n="Radio Kiss Kiss" t="1b58" on="13e" s="130" frq="12111" l="0"/>
-		<S i="2e8" n="Radio PadrePio" t="1b58" on="13e" s="130" frq="12111" l="0"/>
-		<S i="2f9" n="Radio RADICALE" t="1b58" on="13e" s="130" frq="12111" l="0"/>
-		<S i="2fe" n="DimSuono Soft  MI" t="1b58" on="13e" s="130" frq="12111" l="0"/>
-		<S i="2ff" n="DimSuono Soft RM" t="1b58" on="13e" s="130" frq="12111" l="0"/>
-		<S i="300" n="Discoradio" t="1b58" on="13e" s="130" frq="12111" l="0"/>
-		<S i="e2e" n="RADIO FRECCIA" t="1c20" on="13e" s="130" frq="12149" l="0"/>
-		<S i="e30" n="RADIO ITALIA s.m.i." t="1c20" on="13e" s="130" frq="12149" l="0"/>
-		<S i="e31" n="Giornale Radio" t="1c20" on="13e" s="130" frq="12149" l="0"/>
-		<S i="e35" n="Radio Sportiva" t="1c20" on="13e" s="130" frq="12149" l="0"/>
-		<S i="e3a" n="RTL 102.5" t="1c20" on="13e" s="130" frq="12149" l="0"/>
-		<S i="e3b" n="RADIO ZETA" t="1c20" on="13e" s="130" frq="12149" l="0"/>
-		<S i="e3c" n="Radio 24" t="1c20" on="13e" s="130" frq="12149" l="0"/>
-		<S i="e3d" n="R.ONDA D&apos;URTO" t="1c20" on="13e" s="130" frq="12149" l="0"/>
-		<S i="e43" n="DEEJAY" t="1c20" on="13e" s="130" frq="12149" l="0"/>
-		<S i="e44" n="CAPITAL" t="1c20" on="13e" s="130" frq="12149" l="0"/>
-		<S i="e45" n="M DUE O" t="1c20" on="13e" s="130" frq="12149" l="0"/>
-		<S i="e46" n="Radio Iglesias" t="1c20" on="13e" s="130" frq="12149" l="0"/>
-		<S i="e48" n="popolare" t="1c20" on="13e" s="130" frq="12149" l="0"/>
-		<S i="1c52" n="R Tunisie Nationale" t="1c20" on="13e" s="130" frq="12149" l="0"/>
-		<S i="1c53" n="R Tunisie Internatio" t="1c20" on="13e" s="130" frq="12149" l="0"/>
-		<S i="1c57" n="SMTv San Marino Radio" t="1c20" on="13e" s="130" frq="12149" l="0"/>
-		<S i="1c70" n="RADIO MATER" t="1c20" on="13e" s="130" frq="12149" l="0"/>
-		<S i="1c72" n="R.BuonConsiglio" t="1c20" on="13e" s="130" frq="12149" l="0"/>
+		<S i="4255" n="Radio Number One" t="3db8" on="13e" s="130" frq="11662" l="0"/>
+		<S i="4256" n="Canzoni Napoletane" t="3db8" on="13e" s="130" frq="11662" l="0"/>
+		<S i="4259" n="Cusano Palermo" t="3db8" on="13e" s="130" frq="11662" l="0"/>
+		<S i="425a" n="Cusano Napoli" t="3db8" on="13e" s="130" frq="11662" l="0"/>
+		<S i="425b" n="Cusano Salerno" t="3db8" on="13e" s="130" frq="11662" l="0"/>
+		<S i="207" n="RVS-Accendi la Speranza" t="384" on="13e" s="130" frq="11373" l="0"/>
+		<S i="532" n="RVS-Accendi la Speranza" t="3d54" on="13e" s="130" frq="11642" l="0"/>
+		<S i="135a" n="Radio Supersound" t="33f4" on="13e" s="130" frq="11178" l="0"/>
+		<S i="135b" n="Radio Gamma Stereo" t="33f4" on="13e" s="130" frq="11178" l="0"/>
+		<S i="135c" n="RIK 3" t="33f4" on="13e" s="130" frq="11178" l="0"/>
+		<S i="135d" n="Radio Margherita" t="33f4" on="13e" s="130" frq="11178" l="0"/>
+		<S i="135e" n="Radio Cusano Campus" t="33f4" on="13e" s="130" frq="11178" l="0"/>
+		<S i="6ad" n="Service 1709" t="3138" on="13e" s="130" frq="11034" l="0"/>
+		<S i="6af" n="Chaine 2" t="3138" on="13e" s="130" frq="11034" l="0"/>
+		<S i="6c3" n="Chaine 3" t="3138" on="13e" s="130" frq="11034" l="0"/>
+		<S i="6d7" n="Chaine 1" t="3138" on="13e" s="130" frq="11034" l="0"/>
+		<S i="6d8" n="Bahai Radio" t="3138" on="13e" s="130" frq="11034" l="0"/>
+		<S i="6d9" n="WRN Russkij" t="3138" on="13e" s="130" frq="11034" l="0"/>
+		<S i="6da" n="WRN English Europe - Hotbird" t="3138" on="13e" s="130" frq="11034" l="0"/>
+		<S i="6db" n="Radio Jahani" t="3138" on="13e" s="130" frq="11034" l="0"/>
+		<S i="6dc" n="EDM Events" t="3138" on="13e" s="130" frq="11034" l="0"/>
+		<S i="6dd" n="WRN Sawt Al Alam" t="3138" on="13e" s="130" frq="11034" l="0"/>
 		<S i="214c" n="Rai Radio 3 Classica" t="3070" on="13e" s="130" frq="10992" l="0"/>
 		<S i="214d" n="Rai GrParlamento" t="3070" on="13e" s="130" frq="10992" l="0"/>
 		<S i="214e" n="Rai Isoradio" t="3070" on="13e" s="130" frq="10992" l="0"/>
@@ -382,17 +348,6 @@
 		<S i="2155" n="Rai Radio 1 Sport" t="3070" on="13e" s="130" frq="10992" l="0"/>
 		<S i="2156" n="Rai Radio Trst A" t="3070" on="13e" s="130" frq="10992" l="0"/>
 		<S i="2157" n="Rai Radio Südtirol" t="3070" on="13e" s="130" frq="10992" l="0"/>
-		<S i="135a" n="Radio Supersound" t="33f4" on="13e" s="130" frq="11178" l="0"/>
-		<S i="135b" n="Radio Gamma Stereo" t="33f4" on="13e" s="130" frq="11178" l="0"/>
-		<S i="135c" n="RIK 3" t="33f4" on="13e" s="130" frq="11178" l="0"/>
-		<S i="135d" n="Radio Margherita" t="33f4" on="13e" s="130" frq="11178" l="0"/>
-		<S i="135e" n="Radio Cusano Campus" t="33f4" on="13e" s="130" frq="11178" l="0"/>
-		<S i="532" n="RVS-Accendi la Speranza" t="3d54" on="13e" s="130" frq="11642" l="0"/>
-		<S i="4255" n="Radio Number One" t="3db8" on="13e" s="130" frq="11662" l="0"/>
-		<S i="4256" n="Canzoni Napoletane" t="3db8" on="13e" s="130" frq="11662" l="0"/>
-		<S i="4259" n="Cusano Palermo" t="3db8" on="13e" s="130" frq="11662" l="0"/>
-		<S i="425a" n="Cusano Napoli" t="3db8" on="13e" s="130" frq="11662" l="0"/>
-		<S i="425b" n="Cusano Salerno" t="3db8" on="13e" s="130" frq="11662" l="0"/>
 		<S i="4345" n="SRF 1" t="300c" on="13e" s="130" frq="10971" l="0"/>
 		<S i="4346" n="SRF 2 Kultur" t="300c" on="13e" s="130" frq="10971" l="0"/>
 		<S i="4347" n="SRF 3" t="300c" on="13e" s="130" frq="10971" l="0"/>
@@ -419,82 +374,87 @@
 		<S i="435d" n="SRF 1 ZH SH" t="300c" on="13e" s="130" frq="10971" l="0"/>
 		<S i="435e" n="SRF 1 GR" t="300c" on="13e" s="130" frq="10971" l="0"/>
 		<S i="435f" n="Swiss Classica" t="300c" on="13e" s="130" frq="10971" l="0"/>
-		<S i="1c98" n="RMF FM" t="1ce8" on="71" s="130" frq="12188" l="0"/>
-		<S i="1c9a" n="RMF Classic" t="1ce8" on="71" s="130" frq="12188" l="0"/>
-		<S i="1c9b" n="Jedynka - PR" t="1ce8" on="71" s="130" frq="12188" l="0"/>
-		<S i="1c9c" n="Trójka - PR" t="1ce8" on="71" s="130" frq="12188" l="0"/>
-		<S i="1c9e" n="RMF MAXXX" t="1ce8" on="71" s="130" frq="12188" l="0"/>
-		<S i="1ca0" n="Zlote Przeboje" t="1ce8" on="71" s="130" frq="12188" l="0"/>
-		<S i="1ca2" n="RMF FM" t="1ce8" on="71" s="130" frq="12188" l="0"/>
-		<S i="1ca4" n="RMF Classic" t="1ce8" on="71" s="130" frq="12188" l="0"/>
-		<S i="1ca5" n="Jedynka - PR" t="1ce8" on="71" s="130" frq="12188" l="0"/>
-		<S i="1ca6" n="Trójka - PR" t="1ce8" on="71" s="130" frq="12188" l="0"/>
-		<S i="1ca8" n="RMF MAXXX" t="1ce8" on="71" s="130" frq="12188" l="0"/>
-		<S i="1caa" n="Zlote Przeboje" t="1ce8" on="71" s="130" frq="12188" l="0"/>
-		<S i="68" n="VOA 1" t="1db0" on="13e" s="0" frq="0" l="0"/>
-		<S i="c9" n="Radio Svoboda" t="1db0" on="13e" s="0" frq="0" l="0"/>
-		<S i="cb" n="Radio Ozodi" t="1db0" on="13e" s="0" frq="0" l="0"/>
-		<S i="cf" n="Azatutyun" t="1db0" on="13e" s="0" frq="0" l="0"/>
-		<S i="d3" n="Azattyk Unalgysy" t="1db0" on="13e" s="0" frq="0" l="0"/>
-		<S i="d4" n="Ozodlik Radiosi" t="1db0" on="13e" s="0" frq="0" l="0"/>
-		<S i="d9" n="Azatlyk Radiosy" t="1db0" on="13e" s="0" frq="0" l="0"/>
-		<S i="de" n="RSE Balkans" t="1db0" on="13e" s="0" frq="0" l="0"/>
-		<S i="e3" n="Evropa e Lire" t="1db0" on="13e" s="0" frq="0" l="0"/>
+		<S i="c9" n="Radio ECHO" t="2fa8" on="13e" s="130" frq="10949" l="0"/>
+		<S i="ca" n="Radio SAKHAROV" t="2fa8" on="13e" s="130" frq="10949" l="0"/>
+		<S i="cb" n="EURORADIO" t="2fa8" on="13e" s="130" frq="10949" l="0"/>
+		<S i="b" n="Radio Nationale" t="2e18" on="b0" s="130" frq="10873" l="0"/>
+		<S i="c" n="Radio Sud" t="2e18" on="b0" s="130" frq="10873" l="0"/>
+		<S i="e" n="Radio Inter" t="2e18" on="b0" s="130" frq="10873" l="0"/>
+		<S i="f" n="Radio Amazigh" t="2e18" on="b0" s="130" frq="10873" l="0"/>
+		<S i="10" n="Radio Med VI" t="2e18" on="b0" s="130" frq="10873" l="0"/>
+		<S i="32" n="Agadir" t="2e18" on="b0" s="130" frq="10873" l="0"/>
+		<S i="35" n="Oujda" t="2e18" on="b0" s="130" frq="10873" l="0"/>
+		<S i="36" n="Casablanca" t="2e18" on="b0" s="130" frq="10873" l="0"/>
+		<S i="3c" n="Houceima" t="2e18" on="b0" s="130" frq="10873" l="0"/>
+		<S i="46" n="Tetouan" t="2e18" on="b0" s="130" frq="10873" l="0"/>
+		<S i="50" n="Meknes" t="2e18" on="b0" s="130" frq="10873" l="0"/>
+		<S i="5a" n="Laayoune" t="2e18" on="b0" s="130" frq="10873" l="0"/>
+		<S i="5b" n="Dakhla" t="2e18" on="b0" s="130" frq="10873" l="0"/>
+		<S i="b1" n="Tanger" t="2e18" on="b0" s="130" frq="10873" l="0"/>
+		<S i="b2" n="Fes" t="2e18" on="b0" s="130" frq="10873" l="0"/>
+		<S i="b3" n="Marrakech" t="2e18" on="b0" s="130" frq="10873" l="0"/>
+		<S i="9" n="RADIO 1" t="2580" on="d5" s="130" frq="12635" l="0"/>
+		<S i="a" n="BG RADIO" t="2580" on="d5" s="130" frq="12635" l="0"/>
+		<S i="b" n="RADIO CITY" t="2580" on="d5" s="130" frq="12635" l="0"/>
+		<S i="c" n="ENERGY" t="2580" on="d5" s="130" frq="12635" l="0"/>
+		<S i="d" n="VERONIKA" t="2580" on="d5" s="130" frq="12635" l="0"/>
+		<S i="e" n="RADIO 1 ROCK" t="2580" on="d5" s="130" frq="12635" l="0"/>
+		<S i="f" n="Avtoradio" t="2580" on="d5" s="130" frq="12635" l="0"/>
+		<S i="11" n="Radio Focus Sofia" t="2580" on="d5" s="130" frq="12635" l="0"/>
+		<S i="12" n="Radio Focus Pirin" t="2580" on="d5" s="130" frq="12635" l="0"/>
+		<S i="13" n="BNR HORIZONT" t="2580" on="d5" s="130" frq="12635" l="0"/>
+		<S i="14" n="BNR HR. BOTEV" t="2580" on="d5" s="130" frq="12635" l="0"/>
+		<S i="17" n="Darik radio" t="2580" on="d5" s="130" frq="12635" l="0"/>
+		<S i="18" n="Darik Plovdiv" t="2580" on="d5" s="130" frq="12635" l="0"/>
+		<S i="19" n="Darik Burgas" t="2580" on="d5" s="130" frq="12635" l="0"/>
+		<S i="1a" n="Radio Eparhiiski glas" t="2580" on="d5" s="130" frq="12635" l="0"/>
+		<S i="1b" n="BNR Kardzali" t="2580" on="d5" s="130" frq="12635" l="0"/>
+		<S i="1e" n="BG on Air" t="2580" on="d5" s="130" frq="12635" l="0"/>
+		<S i="1f" n="bTV Radio" t="2580" on="d5" s="130" frq="12635" l="0"/>
+		<S i="25" n="BNR Burgas" t="2580" on="d5" s="130" frq="12635" l="0"/>
+		<S i="26" n="BNR Vidin" t="2580" on="d5" s="130" frq="12635" l="0"/>
+		<S i="27" n="BNR St. Zagora" t="2580" on="d5" s="130" frq="12635" l="0"/>
+		<S i="28" n="BNR Varna" t="2580" on="d5" s="130" frq="12635" l="0"/>
+		<S i="2c" n="BNR Horizont +T" t="2580" on="d5" s="130" frq="12635" l="0"/>
+		<S i="2d" n="BNR Plovdiv" t="2580" on="d5" s="130" frq="12635" l="0"/>
+		<S i="2e" n="Radio Fresh" t="2580" on="d5" s="130" frq="12635" l="0"/>
+		<S i="2f" n="Radio FM+" t="2580" on="d5" s="130" frq="12635" l="0"/>
+		<S i="30" n="BNR Blagoevgrad" t="2580" on="d5" s="130" frq="12635" l="0"/>
+		<S i="31" n="BNR Shumen" t="2580" on="d5" s="130" frq="12635" l="0"/>
+		<S i="32" n="BNR Sofia" t="2580" on="d5" s="130" frq="12635" l="0"/>
+		<S i="3b" n="Radio Focus VT" t="2580" on="d5" s="130" frq="12635" l="0"/>
+		<S i="3c" n="Radio Vitosha E" t="2580" on="d5" s="130" frq="12635" l="0"/>
+		<S i="3d" n="Radio The Voice" t="2580" on="d5" s="130" frq="12635" l="0"/>
+		<S i="3e" n="Radio Veselina S" t="2580" on="d5" s="130" frq="12635" l="0"/>
+		<S i="3f" n="Radio Magic FM" t="2580" on="d5" s="130" frq="12635" l="0"/>
+		<S i="40" n=" N-JOY Reg 1" t="2580" on="d5" s="130" frq="12635" l="0"/>
+		<S i="41" n="N-JOY Reg 2" t="2580" on="d5" s="130" frq="12635" l="0"/>
+		<S i="42" n="Darik Sofia" t="2580" on="d5" s="130" frq="12635" l="0"/>
+		<S i="43" n="Nova News" t="2580" on="d5" s="130" frq="12635" l="0"/>
+		<S i="45" n="Test Signal" t="2580" on="d5" s="130" frq="12635" l="0"/>
+		<S i="46" n="Darik St Zagora" t="2580" on="d5" s="130" frq="12635" l="0"/>
+		<S i="4c" n="Radio Focus Burgas" t="2580" on="d5" s="130" frq="12635" l="0"/>
+		<S i="4d" n="Radio Focus Varna" t="2580" on="d5" s="130" frq="12635" l="0"/>
+		<S i="4e" n="Radio Focus NE" t="2580" on="d5" s="130" frq="12635" l="0"/>
+		<S i="4f" n="Radio Focus Rodopi" t="2580" on="d5" s="130" frq="12635" l="0"/>
+		<S i="50" n="Radio Focus Trakia" t="2580" on="d5" s="130" frq="12635" l="0"/>
+		<S i="51" n="Jazz FM" t="2580" on="d5" s="130" frq="12635" l="0"/>
+		<S i="52" n="RNE" t="2580" on="d5" s="130" frq="12635" l="0"/>
+		<S i="53" n=" bTV Radio Sofia" t="2580" on="d5" s="130" frq="12635" l="0"/>
+		<S i="54" n="N-JOY Sofia" t="2580" on="d5" s="130" frq="12635" l="0"/>
+		<S i="55" n="Z-Rock" t="2580" on="d5" s="130" frq="12635" l="0"/>
+		<S i="56" n="Darik Varna" t="2580" on="d5" s="130" frq="12635" l="0"/>
+		<S i="57" n="Darik Kustendil" t="2580" on="d5" s="130" frq="12635" l="0"/>
+		<S i="58" n="Darik Ruse" t="2580" on="d5" s="130" frq="12635" l="0"/>
+		<S i="59" n="Darik Vratza" t="2580" on="d5" s="130" frq="12635" l="0"/>
+		<S i="5a" n="Darik Nostalgie" t="2580" on="d5" s="130" frq="12635" l="0"/>
+		<S i="5b" n="Radio Vitosha W" t="2580" on="d5" s="130" frq="12635" l="0"/>
+		<S i="5c" n="Radio Veselina N" t="2580" on="d5" s="130" frq="12635" l="0"/>
+		<S i="5d" n="Radio Veselina W" t="2580" on="d5" s="130" frq="12635" l="0"/>
+		<S i="5e" n="Radio Veselina E" t="2580" on="d5" s="130" frq="12635" l="0"/>
 		<S i="653" n="Radio Mariam Armenia" t="2454" on="13e" s="130" frq="12576" l="0"/>
-		<S i="153" n="CH339" t="157c" on="13e" s="130" frq="11823" l="0"/>
-		<S i="154" n="CH340" t="157c" on="13e" s="130" frq="11823" l="0"/>
-		<S i="155" n="CH341" t="157c" on="13e" s="130" frq="11823" l="0"/>
-		<S i="156" n="CH342" t="157c" on="13e" s="130" frq="11823" l="0"/>
-		<S i="157" n="CH343" t="157c" on="13e" s="130" frq="11823" l="0"/>
-		<S i="3dae" n="CH15790" t="2c88" on="13e" s="130" frq="10796" l="0"/>
-		<S i="135" n="Love Radio" t="157c" on="13e" s="130" frq="11823" l="0"/>
-		<S i="136" n="Εκκλησία της Ελλ" t="157c" on="13e" s="130" frq="11823" l="0"/>
-		<S i="137" n="Skai Radio" t="157c" on="13e" s="130" frq="11823" l="0"/>
-		<S i="138" n="Melodi Radio" t="157c" on="13e" s="130" frq="11823" l="0"/>
-		<S i="13c" n="VOICE OF GREECE" t="157c" on="13e" s="130" frq="11823" l="0"/>
-		<S i="604" n="R Radio" t="1f4" on="fc" s="130" frq="11296" l="0"/>
-		<S i="60e" n="Yemen Radio" t="1f4" on="fc" s="130" frq="11296" l="0"/>
-		<S i="8b2" n="New Life Radio" t="1f4" on="fc" s="130" frq="11296" l="0"/>
-		<S i="8b3" n="WELAT" t="1f4" on="fc" s="130" frq="11296" l="0"/>
-		<S i="8b4" n="Radio2000" t="1f4" on="fc" s="130" frq="11296" l="0"/>
-		<S i="b" n="Radio Nationale" t="2e18" on="b0" s="130" frq="10873" l="0"/>
-		<S i="c" n="Radio Sud" t="2e18" on="b0" s="130" frq="10873" l="0"/>
-		<S i="e" n="Radio Inter" t="2e18" on="b0" s="130" frq="10873" l="0"/>
-		<S i="f" n="Radio Amazigh" t="2e18" on="b0" s="130" frq="10873" l="0"/>
-		<S i="10" n="Radio Med VI" t="2e18" on="b0" s="130" frq="10873" l="0"/>
-		<S i="32" n="Agadir" t="2e18" on="b0" s="130" frq="10873" l="0"/>
-		<S i="35" n="Oujda" t="2e18" on="b0" s="130" frq="10873" l="0"/>
-		<S i="36" n="Casablanca" t="2e18" on="b0" s="130" frq="10873" l="0"/>
-		<S i="3c" n="Houceima" t="2e18" on="b0" s="130" frq="10873" l="0"/>
-		<S i="46" n="Tetouan" t="2e18" on="b0" s="130" frq="10873" l="0"/>
-		<S i="50" n="Meknes" t="2e18" on="b0" s="130" frq="10873" l="0"/>
-		<S i="5a" n="Laayoune" t="2e18" on="b0" s="130" frq="10873" l="0"/>
-		<S i="5b" n="Dakhla" t="2e18" on="b0" s="130" frq="10873" l="0"/>
-		<S i="b1" n="Tanger" t="2e18" on="b0" s="130" frq="10873" l="0"/>
-		<S i="b2" n="Fes" t="2e18" on="b0" s="130" frq="10873" l="0"/>
-		<S i="b3" n="Marrakech" t="2e18" on="b0" s="130" frq="10873" l="0"/>
-		<S i="b" n="Radio Nationale" t="2e18" on="b0" s="130" frq="10873" l="0"/>
-		<S i="c" n="Radio Sud" t="2e18" on="b0" s="130" frq="10873" l="0"/>
-		<S i="e" n="Radio Inter" t="2e18" on="b0" s="130" frq="10873" l="0"/>
-		<S i="f" n="Radio Amazigh" t="2e18" on="b0" s="130" frq="10873" l="0"/>
-		<S i="10" n="Radio Med VI" t="2e18" on="b0" s="130" frq="10873" l="0"/>
-		<S i="32" n="Agadir" t="2e18" on="b0" s="130" frq="10873" l="0"/>
-		<S i="35" n="Oujda" t="2e18" on="b0" s="130" frq="10873" l="0"/>
-		<S i="36" n="Casablanca" t="2e18" on="b0" s="130" frq="10873" l="0"/>
-		<S i="3c" n="Houceima" t="2e18" on="b0" s="130" frq="10873" l="0"/>
-		<S i="46" n="Tetouan" t="2e18" on="b0" s="130" frq="10873" l="0"/>
-		<S i="50" n="Meknes" t="2e18" on="b0" s="130" frq="10873" l="0"/>
-		<S i="5a" n="Laayoune" t="2e18" on="b0" s="130" frq="10873" l="0"/>
-		<S i="5b" n="Dakhla" t="2e18" on="b0" s="130" frq="10873" l="0"/>
-		<S i="b1" n="Tanger" t="2e18" on="b0" s="130" frq="10873" l="0"/>
-		<S i="b2" n="Fes" t="2e18" on="b0" s="130" frq="10873" l="0"/>
-		<S i="b3" n="Marrakech" t="2e18" on="b0" s="130" frq="10873" l="0"/>
-		<S i="dfd" n="Radio 1" t="1f40" on="13e" s="130" frq="12303" l="0"/>
-		<S i="dfe" n="Radio Clasica" t="1f40" on="13e" s="130" frq="12303" l="0"/>
-		<S i="dff" n="Radio 3" t="1f40" on="13e" s="130" frq="12303" l="0"/>
-		<S i="e00" n="Radio 5" t="1f40" on="13e" s="130" frq="12303" l="0"/>
-		<S i="e01" n="Radio Exterior" t="1f40" on="13e" s="130" frq="12303" l="0"/>
-		<S i="e02" n="Radio 4" t="1f40" on="13e" s="130" frq="12303" l="0"/>
+		<S i="838" n="Radio 2M" t="22c4" on="13e" s="130" frq="12475" l="0"/>
+		<S i="838" n="Radio 2M" t="22c4" on="13e" s="130" frq="12475" l="0"/>
 		<S i="388" n="Noor Dubai Radio" t="2134" on="13e" s="130" frq="12399" l="0"/>
 		<S i="38f" n="ESC R1" t="2134" on="13e" s="130" frq="12399" l="0"/>
 		<S i="390" n="ESC R2" t="2134" on="13e" s="130" frq="12399" l="0"/>
@@ -506,17 +466,89 @@
 		<S i="39a" n="Oman English Radio R2" t="2134" on="13e" s="130" frq="12399" l="0"/>
 		<S i="39b" n="Oman Shabab Radio R3" t="2134" on="13e" s="130" frq="12399" l="0"/>
 		<S i="39c" n="OMAN HOLY QURAN" t="2134" on="13e" s="130" frq="12399" l="0"/>
+		<S i="dfd" n="Radio 1" t="1f40" on="13e" s="130" frq="12303" l="0"/>
+		<S i="dfe" n="Radio Clasica" t="1f40" on="13e" s="130" frq="12303" l="0"/>
+		<S i="dff" n="Radio 3" t="1f40" on="13e" s="130" frq="12303" l="0"/>
+		<S i="e00" n="Radio 5" t="1f40" on="13e" s="130" frq="12303" l="0"/>
+		<S i="e01" n="Radio Exterior" t="1f40" on="13e" s="130" frq="12303" l="0"/>
+		<S i="e02" n="Radio 4" t="1f40" on="13e" s="130" frq="12303" l="0"/>
+		<S i="604" n="R Radio" t="1f4" on="fc" s="130" frq="11296" l="0"/>
+		<S i="8b2" n="New Life Radio" t="1f4" on="fc" s="130" frq="11296" l="0"/>
+		<S i="8b3" n="WELAT" t="1f4" on="fc" s="130" frq="11296" l="0"/>
+		<S i="8b4" n="Radio2000" t="1f4" on="fc" s="130" frq="11296" l="0"/>
+		<S i="1c98" n="RMF FM" t="1ce8" on="71" s="130" frq="12188" l="0"/>
+		<S i="1c9a" n="RMF Classic" t="1ce8" on="71" s="130" frq="12188" l="0"/>
+		<S i="1c9b" n="Jedynka - PR" t="1ce8" on="71" s="130" frq="12188" l="0"/>
+		<S i="1c9c" n="Trójka - PR" t="1ce8" on="71" s="130" frq="12188" l="0"/>
+		<S i="1c9e" n="RMF MAXX" t="1ce8" on="71" s="130" frq="12188" l="0"/>
+		<S i="1ca0" n="Zlote Przeboje" t="1ce8" on="71" s="130" frq="12188" l="0"/>
+		<S i="1ca1" n="PR dla Zagranicy" t="1ce8" on="71" s="130" frq="12188" l="0"/>
+		<S i="1ca2" n="RMF FM" t="1ce8" on="71" s="130" frq="12188" l="0"/>
+		<S i="1ca4" n="RMF Classic" t="1ce8" on="71" s="130" frq="12188" l="0"/>
+		<S i="1ca5" n="Jedynka - PR" t="1ce8" on="71" s="130" frq="12188" l="0"/>
+		<S i="1ca6" n="Trójka - PR" t="1ce8" on="71" s="130" frq="12188" l="0"/>
+		<S i="1ca8" n="RMF MAXX" t="1ce8" on="71" s="130" frq="12188" l="0"/>
+		<S i="1caa" n="Zlote Przeboje" t="1ce8" on="71" s="130" frq="12188" l="0"/>
+		<S i="1cab" n="PR dla Zagranicy" t="1ce8" on="71" s="130" frq="12188" l="0"/>
+		<S i="e2e" n="RADIO FRECCIA" t="1c20" on="13e" s="130" frq="12149" l="0"/>
+		<S i="e30" n="RADIO ITALIA s.m.i." t="1c20" on="13e" s="130" frq="12149" l="0"/>
+		<S i="e31" n="Giornale Radio" t="1c20" on="13e" s="130" frq="12149" l="0"/>
+		<S i="e35" n="Radio Sportiva" t="1c20" on="13e" s="130" frq="12149" l="0"/>
+		<S i="e3a" n="RTL 102.5" t="1c20" on="13e" s="130" frq="12149" l="0"/>
+		<S i="e3b" n="RADIO ZETA" t="1c20" on="13e" s="130" frq="12149" l="0"/>
+		<S i="e3c" n="Radio 24" t="1c20" on="13e" s="130" frq="12149" l="0"/>
+		<S i="e3d" n="R.ONDA D&apos;URTO" t="1c20" on="13e" s="130" frq="12149" l="0"/>
+		<S i="e43" n="DEEJAY" t="1c20" on="13e" s="130" frq="12149" l="0"/>
+		<S i="e44" n="CAPITAL" t="1c20" on="13e" s="130" frq="12149" l="0"/>
+		<S i="e45" n="M DUE O" t="1c20" on="13e" s="130" frq="12149" l="0"/>
+		<S i="e46" n="Radio Iglesias" t="1c20" on="13e" s="130" frq="12149" l="0"/>
+		<S i="e48" n="popolare" t="1c20" on="13e" s="130" frq="12149" l="0"/>
+		<S i="1c52" n="R Tunisie Nationale" t="1c20" on="13e" s="130" frq="12149" l="0"/>
+		<S i="1c53" n="R Tunisie Internatio" t="1c20" on="13e" s="130" frq="12149" l="0"/>
+		<S i="1c57" n="Radio San Marino" t="1c20" on="13e" s="130" frq="12149" l="0"/>
+		<S i="1c70" n="RADIO MATER" t="1c20" on="13e" s="130" frq="12149" l="0"/>
+		<S i="1c72" n="R.BuonConsiglio" t="1c20" on="13e" s="130" frq="12149" l="0"/>
+		<S i="2905" n="RADIO CONGO" t="1c20" on="13e" s="130" frq="12149" l="0"/>
+		<S i="2ca" n="RDP Int" t="1b58" on="13e" s="130" frq="12111" l="0"/>
+		<S i="2cb" n="Antena1" t="1b58" on="13e" s="130" frq="12111" l="0"/>
+		<S i="2dc" n="Radio Maria" t="1b58" on="13e" s="130" frq="12111" l="0"/>
+		<S i="2e0" n="RDS" t="1b58" on="13e" s="130" frq="12111" l="0"/>
+		<S i="2e1" n="DimSuono Roma" t="1b58" on="13e" s="130" frq="12111" l="0"/>
+		<S i="2e2" n="ANNI 60" t="1b58" on="13e" s="130" frq="12111" l="0"/>
+		<S i="2e4" n="R. Italia S.m.i." t="1b58" on="13e" s="130" frq="12111" l="0"/>
+		<S i="2e6" n="Radio Kiss Kiss" t="1b58" on="13e" s="130" frq="12111" l="0"/>
+		<S i="2e8" n="Radio PadrePio" t="1b58" on="13e" s="130" frq="12111" l="0"/>
+		<S i="2f9" n="Radio RADICALE" t="1b58" on="13e" s="130" frq="12111" l="0"/>
+		<S i="2fe" n="DimSuono Soft  MI" t="1b58" on="13e" s="130" frq="12111" l="0"/>
+		<S i="2ff" n="DimSuono Soft RM" t="1b58" on="13e" s="130" frq="12111" l="0"/>
+		<S i="300" n="Discoradio" t="1b58" on="13e" s="130" frq="12111" l="0"/>
+		<S i="110e" n="Radio Vaticana Europa" t="1a2c" on="fbff" s="130" frq="12054" l="0"/>
+		<S i="2b7b" n="InBlu" t="1a2c" on="fbff" s="130" frq="12054" l="0"/>
+		<S i="2ba6" n="INBLU2000" t="1a2c" on="fbff" s="130" frq="12054" l="0"/>
+		<S i="65" n="Radio R101" t="1770" on="be" s="130" frq="11919" l="0"/>
+		<S i="66" n="Radio Monte Carlo" t="1770" on="be" s="130" frq="11919" l="0"/>
+		<S i="68" n="Virgin radio" t="1770" on="be" s="130" frq="11919" l="0"/>
+		<S i="69" n="Radio 105" t="1770" on="be" s="130" frq="11919" l="0"/>
+		<S i="6a" n="RADIO SUBASIO" t="1770" on="be" s="130" frq="11919" l="0"/>
+		<S i="6e" n="Radiolina" t="1770" on="be" s="130" frq="11919" l="0"/>
+		<S i="135" n="Love Radio" t="157c" on="13e" s="130" frq="11823" l="0"/>
+		<S i="136" n="Εκκλησία της Ελλ" t="157c" on="13e" s="130" frq="11823" l="0"/>
+		<S i="137" n="Skai Radio" t="157c" on="13e" s="130" frq="11823" l="0"/>
+		<S i="138" n="Melodi Radio" t="157c" on="13e" s="130" frq="11823" l="0"/>
+		<S i="13c" n="VOICE OF GREECE" t="157c" on="13e" s="130" frq="11823" l="0"/>
+		<S i="d71" n="Rai Radio 1" t="1450" on="13e" s="130" frq="11766" l="0"/>
+		<S i="d72" n="Rai Radio 2" t="1450" on="13e" s="130" frq="11766" l="0"/>
+		<S i="d73" n="Rai Radio 3" t="1450" on="13e" s="130" frq="11766" l="0"/>
 		<S i="2531" n="AL SHARJAH RADIO" t="13ef" on="13e" s="130" frq="11747" l="0"/>
-		<S i="6ad" n="Service 1709" t="3138" on="13e" s="130" frq="11034" l="0"/>
-		<S i="6af" n="Chaine 2" t="3138" on="13e" s="130" frq="11034" l="0"/>
-		<S i="6c3" n="Chaine 3" t="3138" on="13e" s="130" frq="11034" l="0"/>
-		<S i="6d7" n="Chaine 1" t="3138" on="13e" s="130" frq="11034" l="0"/>
-		<S i="6d8" n="Bahai Radio" t="3138" on="13e" s="130" frq="11034" l="0"/>
-		<S i="6d9" n="WRN Russkij" t="3138" on="13e" s="130" frq="11034" l="0"/>
-		<S i="6da" n="WRN English Europe - Hotbird" t="3138" on="13e" s="130" frq="11034" l="0"/>
-		<S i="6db" n="Radio Jahani" t="3138" on="13e" s="130" frq="11034" l="0"/>
-		<S i="6dc" n="EDM Events" t="3138" on="13e" s="130" frq="11034" l="0"/>
-		<S i="6dd" n="WRN Sawt Al Alam" t="3138" on="13e" s="130" frq="11034" l="0"/>
+		<S i="3341" n="DW08" t="1388" on="13e" s="130" frq="11727" l="0"/>
+		<S i="3342" n="DW09" t="1388" on="13e" s="130" frq="11727" l="0"/>
+		<S i="3343" n="DW-FM01" t="1388" on="13e" s="130" frq="11727" l="0"/>
+		<S i="3344" n="DW-FM02" t="1388" on="13e" s="130" frq="11727" l="0"/>
+		<S i="3345" n="DW-FEED1" t="1388" on="13e" s="130" frq="11727" l="0"/>
+		<S i="3346" n="BBC Horn of Africa" t="1388" on="13e" s="130" frq="11727" l="0"/>
+		<S i="3347" n="BBC Arabic" t="1388" on="13e" s="130" frq="11727" l="0"/>
+		<S i="3348" n="BBC English (Europe)" t="1388" on="13e" s="130" frq="11727" l="0"/>
+		<S i="3349" n="BBC English Mid_East" t="1388" on="13e" s="130" frq="11727" l="0"/>
 		<S i="334a" n="RFI Francais" t="1388" on="13e" s="130" frq="11727" l="0"/>
 		<S i="334c" n="RFI Langues Div" t="1388" on="13e" s="130" frq="11727" l="0"/>
 		<S i="334d" n="RFI Afrique" t="1388" on="13e" s="130" frq="11727" l="0"/>
@@ -531,7 +563,5 @@
 		<S i="3356" n="RFI Albania" t="1388" on="13e" s="130" frq="11727" l="0"/>
 		<S i="3357" n="RFI Liban" t="1388" on="13e" s="130" frq="11727" l="0"/>
 		<S i="3358" n="RFI Test HB" t="1388" on="13e" s="130" frq="11727" l="0"/>
-		<S i="2905" n="Radio Congo" t="1c20" on="13e" s="130" frq="12149" l="0"/>
-		<S i="838" n="Radio 2M" t="22c4" on="13e" s="130" frq="12475" l="0"/>
 	</Bouquet>
 </zapit>
