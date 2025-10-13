@@ -6,11 +6,14 @@ Enigma Lamedb settings file format.
 
 Neutrino XML settings file format.
 
-&nbsp;
+This is a human-readable representation of seeds \[HTML\], source seeds are in this repository: https://github.com/e2se/e2se-seeds
 
-### License
+*All brands, logos, trademarks and registered trademarks are property of their copyright holders.*
 
-Source code licensed under the terms of the [MIT License](https://github.com/e2se/e2se-seeds/blob/main/LICENSE-MIT).
 
-It is also licensed under the terms of the [GNU GPLv3](https://github.com/e2se/e2se-seeds/blob/main/LICENSE-GPL-3.0-or-later).
+## License
+
+Source code licensed under the terms of the [MIT License](https://github.com/e2se/e2se-seeds/blob/gh-pages/LICENSE-MIT).
+
+It is also licensed under the terms of the [GNU GPLv3](https://github.com/e2se/e2se-seeds/blob/gh-pages/LICENSE-GPL-3.0-or-later).
 
